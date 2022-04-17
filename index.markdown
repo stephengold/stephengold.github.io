@@ -4,6 +4,7 @@ layout: home
 
 Stephen Gold is a California-based computer hobbyist
 who creates, collects, maintains, and publishes open-source Java libraries.
+He holds an advanced degree in Electrical Engineering.
 At the present time, he is not seeking donations or employment.
 
 His current software interests include:
@@ -13,6 +14,7 @@ His current software interests include:
 + [build automation](https://en.wikipedia.org/wiki/Build_automation)
 + [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm)
 + [procedural generation of textures and meshes](https://en.wikipedia.org/wiki/Procedural_generation)
++ [approximate convex decomposition](http://masc.cs.gmu.edu/wiki/ACD)
 
 His projects at GitHub include:
 + [Libbulletjme (LBJ)](https://github.com/stephengold/Libbulletjme),
