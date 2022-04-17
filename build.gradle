@@ -1,0 +1,15 @@
+// Gradle build script for the stephengold.github.io project
+
+plugins {
+    id 'base' // to add a "clean" task to the project
+}
+
+// cleanup tasks:
+
+clean.dependsOn('cleanCache', 'cleanSite')
+task cleanCache(type: Delete) {
+    delete '.jekyll-cache'
+}
+task cleanSite(type: Delete) {
+    delete '_site'
+}
