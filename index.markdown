@@ -18,34 +18,46 @@ His projects at GitHub include:
   a 3-D physics library for Java applications,
   based on [Bullet](https://pybullet.org)
   and [V-HACD](https://github.com/kmammou/v-hacd)
+  ([latest release](https://github.com/stephengold/Libbulletjme/releases/latest))
 + [LbjExamples](https://github.com/stephengold/LbjExamples),
   example applications using Libbulletjme
 + [JMonkeyEngine (JME)](https://jmonkeyengine.org/),
   a code-centric game engine based on [LWJGL](https://www.lwjgl.org)
+  ([latest release](https://github.com/jmonkeyengine/jmonkeyengine/releases/latest))
 + Add-on libraries for JME:
   + [Minie](https://stephengold.github.io/Minie),
     a physics engine based on Libbulletjme
+    ([latest release](https://github.com/stephengold/Minie/releases/latest))
   + [Acorus](https://github.com/stephengold/Acorus),
     a simple user interface for demo/test applications
+    ([latest release](https://github.com/stephengold/Acorus/releases/latest))
   + [Garrett](https://github.com/stephengold/Garrett),
     a suite of camera controllers
+    ([latest release](https://github.com/stephengold/Garrett/releases/latest))
   + [Heart](https://github.com/stephengold/Heart),
     a general-purpose add-on library
+    ([latest release](https://github.com/stephengold/Heart/releases/latest))
   + [jme3-utilities-nifty](https://github.com/stephengold/jme3-utilities),
     a graphical user interface
     based on [NiftyGUI](https://nifty-gui.github.io/nifty-gui)
   + [jme3-utilities-x](https://github.com/stephengold/jme3-utilities),
     an experimental add-on library
   + [JmePower](https://github.com/stephengold/JmePower), a loading animation
+    ([latest release](https://github.com/stephengold/JmePower/releases/latest))
   + [jME-TTF](https://github.com/stephengold/jME-TTF),
     a renderer for TrueType fonts
+    ([latest release](https://github.com/stephengold/jME-TTF/releases/latest))
   + [More Advanced Vehicles (MAV)](https://github.com/stephengold/jme-vehicles),
     a vehicle simulator based on Minie
+    ([latest release](https://github.com/stephengold/jme-vehicles/releases/latest))
   + [SkyControl](https://github.com/stephengold/SkyControl), a sky simulator
+    ([latest release](https://github.com/stephengold/SkyControl/releases/latest))
   + [tonegodgui](https://github.com/stephengold/tonegodgui),
     another graphical user interface
+    ([latest release](https://github.com/stephengold/tonegodgui/releases/latest))
   + [Wes](https://github.com/stephengold/Wes),
     edits and retargets skeletal animations
+    ([latest release](https://github.com/stephengold/Wes/releases/latest))
 + JME applications:
   + [Banana](https://github.com/stephengold/Banana),
     a test suite for physics libraries
@@ -69,12 +81,17 @@ His projects at GitHub include:
 + Ancient Java libraries:
   + [asm 3.1](https://github.com/stephengold/asm),
     a framework for manipulating Java bytecode
+    ([latest release](https://github.com/stephengold/asm/releases/latest))
   + [jbullet](https://github.com/stephengold/jbullet),
     a 3-D physics library written entirely in Java
+    ([latest release](https://github.com/stephengold/jbullet/releases/latest))
   + [j-ogg-all](https://github.com/stephengold/j-ogg-all),
     an importer for Ogg audio files
+    ([latest release](https://github.com/stephengold/j-ogg-all/releases/latest))
   + [stack-alloc](https://github.com/stephengold/stack-alloc),
     allocates Java objects on the stack instead of on the heap
+    ([latest release](https://github.com/stephengold/stack-alloc/releases/latest))
 + [antora-ui-bundle](https://github.com/stephengold/antora-ui-bundle),
   an Antora user-interface bundle
-+ [stephengold.guihub.io](https://stephengold.github.io/) (this website)
+  ([latest release](https://github.com/stephengold/antora-ui-bundle/releases/latest))
++ [stephengold.guihub.io](https://github.com/stephengold/stephengold.github.io/) (this website)
