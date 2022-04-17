@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://stephengold.github.io/</loc>
+  <lastmod>2022-04-16T22:49:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/overview.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/implementation.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/add.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/rigidbody.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/shape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/rbc.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/debug.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/character.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/vehicle.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/new6dof.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/dac.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/detect.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/softbody.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/server.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/minie-library-tutorials/misc.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/build.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/demos.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/minie/depends.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-6/</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-5/</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-4/</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-3/</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-2/</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-1/</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-0/</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v3-1/</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v3-0/</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v2-0/</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/BulletAppState.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/PhysicsSpace.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/PhysicsRigidBody.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/CollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/CompoundCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/Box2dShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/BoxCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/CapsuleCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/ConeCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/Convex2dShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/CylinderCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/EmptyShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/GImpactCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/HeightfieldCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/HullCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/MeshCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/MultiSphere.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/PlaneCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/SimplexCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/SphereCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/util/CollisionShapeFactory.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/control/PhysicsControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/control/RigidBodyControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/PhysicsGhostObject.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/MultiBodyCollider.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/PhysicsCharacter.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/PhysicsSoftBody.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/control/CharacterControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/control/BetterCharacterControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/PhysicsVehicle.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/control/VehicleControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/New6Dof.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/SixDofJoint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/SixDofSpringJoint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/ConeJoint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/HingeJoint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/Point2PointJoint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/SliderJoint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/Constraint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/PhysicsSoftSpace.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/MultiBodySpace.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/overview-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/deprecated-list.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/index-all.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/help-doc.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/infos/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/control/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/motors/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/infos/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/util/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/vhacd/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/overview-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/deprecated-list.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/index-all.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/help-doc.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/allclasses.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/com/jme3/bullet/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/com/jme3/bullet/animation/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/com/jme3/bullet/collision/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/com/jme3/bullet/collision/shapes/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/com/jme3/bullet/collision/shapes/infos/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/com/jme3/bullet/control/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/com/jme3/bullet/debug/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/com/jme3/bullet/joints/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/com/jme3/bullet/joints/motors/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/com/jme3/bullet/objects/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/com/jme3/bullet/objects/infos/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/com/jme3/bullet/util/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/jme3utilities/minie/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-7/vhacd/package-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-6/overview-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-6/overview-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-6/allclasses-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-5/overview-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-5/overview-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-5/allclasses-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-4/overview-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-4/overview-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-4/allclasses-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-3/overview-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-3/overview-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-3/allclasses-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-2/overview-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-2/overview-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-2/allclasses-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-1/overview-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-1/overview-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-1/allclasses-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-0/overview-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-0/overview-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v4-0/allclasses-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v3-1/overview-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v3-1/overview-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v3-1/allclasses-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v3-0/overview-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v3-0/overview-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v3-0/allclasses-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v2-0/overview-summary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v2-0/overview-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/v2-0/allclasses-frame.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/index.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/PhysicsTickListener.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/MultiBodyAppState.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/SoftPhysicsAppState.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/BulletAppState.ThreadingType.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/PhysicsSpace.BroadphaseType.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/BulletDebugAppState.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/DebugConfiguration.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/SolverType.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/BulletDebugAppState.DebugAppStateFilter.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/DebugInitListener.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/NativePhysicsObject.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/CollisionSpace.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/ContactListener.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/PhysicsCollisionListener.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/PhysicsCollisionObject.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/PhysicsJoint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/SolverInfo.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/constant-values.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/PersistentManifolds.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/PhysicsBody.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/infos/RigidBodyMotionState.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/ConvexShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/infos/ChildCollisionShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/infos/IndexedMesh.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/vhacd/VHACDHull.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/util/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/vhacd/VHACDParameters.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/control/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/control/AbstractPhysicsControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/DacConfiguration.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/DacLinks.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/DynamicAnimControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/control/GhostControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/control/SoftBodyControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/MultiBody.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/infos/SoftBodyMaterial.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/infos/Cluster.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/infos/SoftBodyConfig.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/SoftBodyWorldInfo.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/infos/DebugMeshNormals.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/VehicleWheel.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/infos/VehicleController.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/infos/VehicleTuning.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/NewHinge.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/RotationOrder.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/motors/MotorParam.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/JointEnd.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/motors/RotationMotor.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/motors/TranslationMotor.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/motors/RotationalLimitMotor.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/motors/TranslationalLimitMotor.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/GearJoint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/infos/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/motors/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/infos/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/vhacd/package-tree.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/MultiBodyDebugAppState.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/SoftDebugAppState.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/AbstractPhysicsDebugControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/BulletCharacterDebugControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/BulletGhostObjectDebugControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/BulletRigidBodyDebugControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/BulletVehicleDebugControl.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/Activation.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/AfMode.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/AppDataFilter.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/CcdFilter.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/CollisionFlag.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/infos/ConfigFlag.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/ContactPointFlag.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/DacUserFilter.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/util/DebugShapeFactory.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/DebugTools.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/PhysicsDescriber.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/PhysicsDumper.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/FilterAll.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/IKController.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/IKJoint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/LinkConfig.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/ManifoldPoints.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/MinieVersion.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/MyControlP.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/MyPco.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/MyShape.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/util/NativeLibrary.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/util/NativeMeshUtil.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/infos/BoundingValueHierarchy.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/infos/CharacterController.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/infos/CompoundMesh.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/MultiBodyLink.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/PhysicsCollisionEvent.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/Anchor.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/SoftPhysicsJoint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/SoftAngularJoint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/SoftLinearJoint.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/util/NativeSoftBodyUtil.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/NegativeAppDataFilter.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/PcoType.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/PhysicsLink.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/AttachmentLink.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/BoneLink.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/TorsoLink.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/PhysicsRayTestResult.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/PhysicsSweepTestResult.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/util/PlaneDmiListener.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/DebugMeshInitListener.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/RagUtils.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/RangeOfMotion.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/RayTestFlag.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/SolverMode.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/UserFilter.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/vhacd/VHACD.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/MeshCustomizer.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/PhysicsCollisionGroupListener.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/RagdollCollisionListener.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/vhacd/VHACDProgressListener.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/vhacd/ACDMode.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/infos/Aero.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/CenterHeuristic.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/DumpFlags.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/KinematicSubmode.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/MassHeuristic.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/MultiBodyJointType.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/objects/infos/Sbcp.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/ShapeHeuristic.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/allclasses-index.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://stephengold.github.io/Minie/javadoc/master/allpackages-index.html</loc>
+  <lastmod>2022-04-16T22:28:21+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>
