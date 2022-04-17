@@ -28,17 +28,17 @@ Instead of explicitly downloading archives or building from source,
 most users simply refer to libraries
 by Maven coordinates (groupId, artifactId, and version) in their buildscripts.
 
-+ [Libbulletjme (LBJ)](https://github.com/stephengold/Libbulletjme),
++ [Libbulletjme](https://github.com/stephengold/Libbulletjme),
   a 3-D physics library for Java applications,
   based on [Bullet](https://pybullet.org)
   and [V-HACD](https://github.com/kmammou/v-hacd)
   ([latest release](https://github.com/stephengold/Libbulletjme/releases/latest))
 + [LbjExamples](https://github.com/stephengold/LbjExamples),
   example applications using Libbulletjme
-+ [JMonkeyEngine (JME)](https://jmonkeyengine.org/),
++ [JMonkeyEngine](https://jmonkeyengine.org/),
   a code-centric game engine based on [LWJGL](https://www.lwjgl.org)
   ([latest release](https://github.com/jmonkeyengine/jmonkeyengine/releases/latest))
-+ Add-on libraries for JME:
++ Add-on libraries for JMonkeyEngine:
   + [Minie](https://stephengold.github.io/Minie),
     a physics engine based on Libbulletjme
     ([latest release](https://github.com/stephengold/Minie/releases/latest))
@@ -61,7 +61,7 @@ by Maven coordinates (groupId, artifactId, and version) in their buildscripts.
   + [jME-TTF](https://github.com/stephengold/jME-TTF),
     a renderer for TrueType fonts
     ([latest release](https://github.com/stephengold/jME-TTF/releases/latest))
-  + [More Advanced Vehicles (MAV)](https://github.com/stephengold/jme-vehicles),
+  + [More Advanced Vehicles](https://github.com/stephengold/jme-vehicles),
     a vehicle simulator based on Minie
     ([latest release](https://github.com/stephengold/jme-vehicles/releases/latest))
   + [SkyControl](https://github.com/stephengold/SkyControl), a sky simulator
@@ -72,11 +72,11 @@ by Maven coordinates (groupId, artifactId, and version) in their buildscripts.
   + [Wes](https://github.com/stephengold/Wes),
     edits and retargets skeletal animations
     ([latest release](https://github.com/stephengold/Wes/releases/latest))
-+ JME applications:
++ JMonkeyEngine applications:
   + [Banana](https://github.com/stephengold/Banana),
     a test suite for physics libraries
   + [BasicGame-on-Gradle](https://github.com/stephengold/BasicGame-on-Gradle),
-    a template for building JME applications
+    a template for building JMonkeyEngine applications
     using [Gradle](https://gradle.org)
   + [DacWizard](https://github.com/stephengold/Minie),
     a tool for configuring ragdoll physics
