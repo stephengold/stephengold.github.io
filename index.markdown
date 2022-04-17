@@ -4,6 +4,7 @@ layout: home
 
 Stephen Gold is a California-based computer hobbyist
 who creates, collects, maintains, and publishes open-source Java libraries.
+At the present time, he is not seeking donations or employment.
 
 His current software interests include:
 + [3-D graphics](https://en.wikipedia.org/wiki/3D_computer_graphics)
