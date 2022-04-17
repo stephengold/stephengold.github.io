@@ -16,7 +16,18 @@ His current software interests include:
 + [procedural generation of textures and meshes](https://en.wikipedia.org/wiki/Procedural_generation)
 + [approximate convex decomposition](http://masc.cs.gmu.edu/wiki/ACD)
 
-His projects at GitHub include:
+### Projects at GitHub
+
+While Stephen publishes source code and build instructions for his libraries,
+users aren't expected to build them from source.
+Pre-built artifacts (including JARs) are available from the
+[Maven Central Repository](https://www.cloudrepo.io/articles/public-maven-repositories-maven-central-and-more.html#article),
+under the
+[com.github.stephengold](https://search.maven.org/search?q=com.github.stephengold) groupId.
+Instead of explicitly downloading archives or building from source,
+most users simply refer to libraries
+by Maven coordinates (groupId, artifactId, and version) in their buildscripts.
+
 + [Libbulletjme (LBJ)](https://github.com/stephengold/Libbulletjme),
   a 3-D physics library for Java applications,
   based on [Bullet](https://pybullet.org)
