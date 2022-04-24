@@ -16,7 +16,7 @@ His current software interests include:
 + [procedural generation of textures and meshes](https://en.wikipedia.org/wiki/Procedural_generation)
 + [approximate convex decomposition](http://masc.cs.gmu.edu/wiki/ACD)
 
-### Projects at GitHub
+### [Projects at GitHub](https://github.com/stephengold?tab=repositories)
 
 While Stephen publishes source code and build instructions for his libraries,
 users aren't expected to build them from source.
