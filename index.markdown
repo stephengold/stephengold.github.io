@@ -4,8 +4,7 @@ layout: home
 
 Stephen Gold is a computer hobbyist
 who creates, collects, maintains, and publishes open-source Java libraries.
-He lives in California.
-He holds an advanced degree in Electrical Engineering.
+He lives in California and holds an advanced degree in Electrical Engineering.
 At the present time, he is not seeking donations or employment.
 
 His current software interests include:
