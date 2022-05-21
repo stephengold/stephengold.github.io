@@ -28,7 +28,8 @@ github_username: stephengold
 
 # Build settings
 theme: minima
-# plugins:
+plugins:
+  - jekyll-seo-tag
 #  - jekyll-feed
 
 # Exclude from processing.
