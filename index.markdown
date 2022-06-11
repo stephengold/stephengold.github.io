@@ -28,7 +28,7 @@ Instead of explicitly downloading archives or building from source,
 most users simply refer to libraries
 by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
 
-+ **[Libbulletjme](https://github.com/stephengold/Libbulletjme)**,
++ **[Libbulletjme](https://stephengold.github.io/Libbulletjme)**,
   a 3-D physics library for Java applications,
   based on [Bullet](https://pybullet.org)
   and [V-HACD](https://github.com/kmammou/v-hacd)
