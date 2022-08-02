@@ -152,7 +152,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     + artifact ID: jbullet
     + find the latest release:
       [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:jbullet),
-      [latest release](https://github.com/stephengold/jbullet/releases/latest)
+      [GitHub](https://github.com/stephengold/jbullet/releases/latest)
   + **[j-ogg-all](https://github.com/stephengold/j-ogg-all)**,
     an importer for Ogg audio files
     + artifact ID: j-ogg-all
