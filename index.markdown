@@ -76,12 +76,12 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     based on [NiftyGUI](https://nifty-gui.github.io/nifty-gui)
     + artifact ID: jme3-utilities-nifty
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:jme3-utilities-nifty),
+      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:jme3-utilities-nifty)
   + **[jme3-utilities-x](https://github.com/stephengold/jme3-utilities)**,
     an experimental add-on library
     + artifact ID: jme3-utilities-x
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:jme3-utilities-x),
+      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:jme3-utilities-x)
   + **[JmePower](https://github.com/stephengold/JmePower)**,
     a loading animation
     + artifact ID: JmePower
