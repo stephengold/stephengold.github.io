@@ -1,6 +1,8 @@
 # stephengold.github.io: robots.txt 
 
 User-agent: *
+Disallow: /Minie/javadoc/v4-9/
+Disallow: /Minie/javadoc/v4-8/
 Disallow: /Minie/javadoc/v4-7/
 Disallow: /Minie/javadoc/v4-6/
 Disallow: /Minie/javadoc/v4-5/
