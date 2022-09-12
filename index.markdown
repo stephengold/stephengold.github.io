@@ -40,7 +40,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
   example applications using Libbulletjme
 
 + **[JMonkeyEngine](https://jmonkeyengine.org)**,
-  a code-centric game engine based on [LWJGL](https://www.lwjgl.org)
+  a code-centric 3-D game engine based on [LWJGL](https://www.lwjgl.org)
   + group ID: org.jmonkeyengine
   + find the latest release:
     [Central](https://search.maven.org/search?q=org.jmonkeyengine),
