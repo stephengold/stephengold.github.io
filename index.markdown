@@ -120,6 +120,8 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
       [GitHub](https://github.com/stephengold/Wes/releases/latest)
 
 + JMonkeyEngine applications:
+  + **[Archer-Game-Template2](https://github.com/capdevon/Archer-Game-Template2)**,
+    a first-person shooter game
   + **[Banana](https://github.com/stephengold/Banana)**,
     a test suite for physics libraries
   + **[BasicGame-on-Gradle](https://github.com/stephengold/BasicGame-on-Gradle)**,
