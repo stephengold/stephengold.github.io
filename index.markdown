@@ -3,7 +3,8 @@ layout: home
 ---
 
 Stephen Gold is a computer hobbyist
-who creates, collects, maintains, and publishes open-source Java libraries.
+who creates, collects, maintains, and publishes open-source
+[JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) libraries.
 He lives in California and holds an advanced degree in Electrical Engineering.
 At the present time, he is not seeking donations or employment.
 
@@ -29,7 +30,7 @@ most users simply refer to libraries
 by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
 
 + **[Libbulletjme](https://stephengold.github.io/Libbulletjme)**,
-  a 3-D physics library for Java applications,
+  a 3-D physics library for JVM applications,
   based on [Bullet](https://pybullet.org)
   and [V-HACD](https://github.com/kmammou/v-hacd)
   + artifact ID: Libbulletjme
@@ -142,9 +143,9 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
   + **[RyzomDemos](https://github.com/stephengold/RyzomDemos)**,
     example applications using assets imported by RyzomConverter
 
-+ Ancient Java libraries:
++ Ancient JVM libraries:
   + **[asm 3.1](https://github.com/stephengold/asm)**,
-    a framework for manipulating Java bytecode
+    a framework for manipulating JVM bytecodes
     + artifact ID: asm-all
     + find the latest release:
       [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:asm-all),
@@ -156,13 +157,13 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
       [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:jbullet),
       [GitHub](https://github.com/stephengold/jbullet/releases/latest)
   + **[j-ogg-all](https://github.com/stephengold/j-ogg-all)**,
-    an importer for Ogg audio files
+    reads [Ogg](https://www.xiph.org/ogg/) bitstreams and decodes the media they contain
     + artifact ID: j-ogg-all
     + find the latest release:
       [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:j-ogg-all),
       [GitHub](https://github.com/stephengold/j-ogg-all/releases/latest)
   + **[stack-alloc](https://github.com/stephengold/stack-alloc)**,
-    allocates Java objects on the stack instead of on the heap
+    allocates JVM objects on the stack instead of on the heap
     + artifact ID: stack-alloc
     + find the latest release:
       [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:stack-alloc),
