@@ -24,7 +24,7 @@ users aren't expected to build them from source.
 Pre-built artifacts (including JARs) are available from the
 [Maven Central Repository](https://www.cloudrepo.io/articles/public-maven-repositories-maven-central-and-more.html#article),
 under the
-[com.github.stephengold](https://search.maven.org/search?q=com.github.stephengold) group ID.
+[com.github.stephengold](https://central.sonatype.com/namespace/com.github.stephengold) group ID.
 Instead of explicitly downloading archives or building from source,
 most users simply refer to libraries
 by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
@@ -35,7 +35,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
   and [V-HACD](https://github.com/kmammou/v-hacd)
   + artifact ID: Libbulletjme
   + find the latest release:
-    [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:Libbulletjme),
+    [Central](https://central.sonatype.com/search?q=Libbulletjme&namespace=com.github.stephengold),
     [GitHub](https://github.com/stephengold/Libbulletjme/releases/latest)
 + **[LbjExamples](https://github.com/stephengold/LbjExamples)**,
   example applications using Libbulletjme
@@ -44,7 +44,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
   a code-centric 3-D game engine based on [LWJGL](https://www.lwjgl.org)
   + group ID: org.jmonkeyengine
   + find the latest release:
-    [Central](https://search.maven.org/search?q=org.jmonkeyengine),
+    [Central](https://central.sonatype.com/namespace/org.jmonkeyengine),
     [GitHub](https://github.com/jmonkeyengine/jmonkeyengine/releases/latest)
 
 + Add-on libraries for JMonkeyEngine:
@@ -52,72 +52,72 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     a physics engine based on Libbulletjme
     + artifact ID: Minie
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:Minie),
+      [Central](https://central.sonatype.com/search?q=Minie&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/Minie/releases/latest)
   + **[Acorus](https://github.com/stephengold/Acorus)**,
     a simple user interface for demo/test applications
     + artifact ID: Acorus
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:Acorus),
+      [Central](https://central.sonatype.com/search?q=Acorus&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/Acorus/releases/latest)
   + **[Garrett](https://github.com/stephengold/Garrett)**,
     a suite of camera controllers
     + artifact ID: Garrett
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:Garrett),
+      [Central](https://central.sonatype.com/search?q=Garrett&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/Garrett/releases/latest)
   + **[Heart](https://github.com/stephengold/Heart)**,
     a general-purpose add-on library
     + artifact ID: Heart
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:Heart),
+      [Central](https://central.sonatype.com/search?q=Heart&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/Heart/releases/latest)
   + **[jme3-utilities-nifty](https://github.com/stephengold/jme3-utilities)**,
     a graphical user interface
     based on [NiftyGUI](https://nifty-gui.github.io/nifty-gui)
     + artifact ID: jme3-utilities-nifty
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:jme3-utilities-nifty)
+      [Central](https://central.sonatype.com/search?q=jme3-utilities-nifty&namespace=com.github.stephengold)
   + **[jme3-utilities-x](https://github.com/stephengold/jme3-utilities)**,
     an experimental add-on library
     + artifact ID: jme3-utilities-x
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:jme3-utilities-x)
+      [Central](https://central.sonatype.com/search?q=jme3-utilities-x&namespace=com.github.stephengold)
   + **[JmePower](https://github.com/stephengold/JmePower)**,
     a loading animation
     + artifact ID: JmePower
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:JmePower),
+      [Central](https://central.sonatype.com/search?q=JmePower&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/JmePower/releases/latest)
   + **[jME-TTF](https://github.com/stephengold/jME-TTF)**,
     a renderer for TrueType fonts
     + artifact ID: jme-ttf
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:jme-ttf),
+      [Central](https://central.sonatype.com/search?q=jme-ttf&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/jME-TTF/releases/latest)
   + **[More Advanced Vehicles](https://github.com/stephengold/jme-vehicles)**,
     a vehicle simulator based on Minie
     + artifact ID: MaVehicles
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:jme-vehicles),
+      [Central](https://central.sonatype.com/search?q=jme-vehicles&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/jme-vehicles/releases/latest)
   + **[SkyControl](https://github.com/stephengold/SkyControl)**,
     a sky simulator
     + artifact ID: SkyControl
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:SkyControl),
+      [Central](https://central.sonatype.com/search?q=SkyControl&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/SkyControl/releases/latest)
   + **[tonegodgui](https://github.com/stephengold/tonegodgui)**,
     another graphical user interface
     + artifact ID: tonegodgui
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:tonegodgui),
+      [Central](https://central.sonatype.com/search?q=tonegodgui&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/tonegodgui/releases/latest)
   + **[Wes](https://github.com/stephengold/Wes)**,
     edits and retargets skeletal animations
     + artifact ID: Wes
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:Wes),
+      [Central](https://central.sonatype.com/search?q=Wes&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/Wes/releases/latest)
 
 + JMonkeyEngine applications:
@@ -148,25 +148,25 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     a framework for manipulating JVM bytecodes
     + artifact ID: asm-all
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:asm-all),
+      [Central](https://central.sonatype.com/search?q=asm-all&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/asm/releases/latest)
   + **[jbullet](https://github.com/stephengold/jbullet)**,
     a 3-D physics library written entirely in Java
     + artifact ID: jbullet
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:jbullet),
+      [Central](https://central.sonatype.com/search?q=jbullet&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/jbullet/releases/latest)
   + **[j-ogg-all](https://github.com/stephengold/j-ogg-all)**,
     reads [Ogg](https://www.xiph.org/ogg/) bitstreams and decodes the media they contain
     + artifact ID: j-ogg-all
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:j-ogg-all),
+      [Central](https://central.sonatype.com/search?q=j-ogg-all&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/j-ogg-all/releases/latest)
   + **[stack-alloc](https://github.com/stephengold/stack-alloc)**,
     allocates JVM objects on the stack instead of on the heap
     + artifact ID: stack-alloc
     + find the latest release:
-      [Central](https://search.maven.org/search?q=g:com.github.stephengold%20a:stack-alloc),
+      [Central](https://central.sonatype.com/search?q=stack-alloc&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/stack-alloc/releases/latest)
 
 + **[antora-ui-bundle](https://github.com/stephengold/antora-ui-bundle)**,
