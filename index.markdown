@@ -96,6 +96,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     + find the latest release:
       [Central](https://central.sonatype.com/search?q=JmePower&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/JmePower/releases/latest)
+    + [browse recent commits](https://github.com/stephengold/JmePower/commits/master)
   + **[jME-TTF](https://github.com/stephengold/jME-TTF)**,
     a renderer for TrueType fonts
     + artifact ID: jme-ttf
