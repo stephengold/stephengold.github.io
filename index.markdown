@@ -40,7 +40,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
   + [browse recent commits](https://github.com/stephengold/Libbulletjme/commits/master)
 + **[LbjExamples](https://github.com/stephengold/LbjExamples)**,
   example applications using Libbulletjme
-  + [browse recent commits](https://github.com/LbjExamples/Libbulletjme/commits/master)
+  + [browse recent commits](https://github.com/stephengold/LbjExamples/commits/master)
 
 + **[JMonkeyEngine](https://jmonkeyengine.org)**,
   a code-centric 3-D game engine based on [LWJGL](https://www.lwjgl.org)
