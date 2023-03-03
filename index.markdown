@@ -182,7 +182,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     + [browse recent commits](https://github.com/stephengold/jbullet/commits/master)
   + **[j-ogg-all](https://github.com/stephengold/j-ogg-all)**,
     reads [Ogg](https://www.xiph.org/ogg/) bitstreams and decodes the media they contain
-    + artifact ID: j-ogg-all
+    + artifact IDs: j-ogg-all and j-ogg-vorbis
     + find the latest release:
       [Central](https://central.sonatype.com/search?q=j-ogg-all&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/j-ogg-all/releases/latest)
