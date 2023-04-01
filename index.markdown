@@ -136,7 +136,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
 + JMonkeyEngine applications:
   + **[Archer-Game-Template2](https://github.com/capdevon/Archer-Game-Template2)**,
     a first-person shooter game
-    + [browse recent commits](https://github.com/capdevon/Archer-Game-Template2/commits/master)
+    + [browse recent commits](https://github.com/capdevon/Archer-Game-Template2/commits/main)
   + **[Banana](https://github.com/stephengold/Banana)**,
     a test suite for physics libraries
     + [browse recent commits](https://github.com/stephengold/Banana/commits/master)
