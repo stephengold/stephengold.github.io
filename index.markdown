@@ -59,14 +59,14 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
       [GitHub](https://github.com/stephengold/Minie/releases/latest)
     + [browse recent commits](https://github.com/stephengold/Minie/commits/master)
   + **[Acorus](https://stephengold.github.io/Acorus)**,
-    a simple user interface for demo/test applications
+    a simple user interface for demo/test desktop applications
     + artifact ID: Acorus
     + find the latest release:
       [Central](https://central.sonatype.com/search?q=Acorus&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/Acorus/releases/latest)
     + [browse recent commits](https://github.com/stephengold/Acorus/commits/master)
   + **[Garrett](https://github.com/stephengold/Garrett)**,
-    a suite of camera controllers
+    a suite of camera controllers based on Acorus and Minie
     + artifact ID: Garrett
     + find the latest release:
       [Central](https://central.sonatype.com/search?q=Garrett&namespace=com.github.stephengold),
