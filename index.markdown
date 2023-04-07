@@ -58,7 +58,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
       [Central](https://central.sonatype.com/search?q=Minie&namespace=com.github.stephengold),
       [GitHub](https://github.com/stephengold/Minie/releases/latest)
     + [browse recent commits](https://github.com/stephengold/Minie/commits/master)
-  + **[Acorus](https://github.com/stephengold/Acorus)**,
+  + **[Acorus](https://stephengold.github.io/Acorus)**,
     a simple user interface for demo/test applications
     + artifact ID: Acorus
     + find the latest release:
