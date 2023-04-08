@@ -4,55 +4,58 @@
     <loc>https://stephengold.github.io/</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/overview.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/overview.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Minie/minie/overview.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/implementation.html</loc>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/overview.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/add.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/implementation.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/sport.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/add.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/rigidbody.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/sport.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/shape.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/rigidbody.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/character.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/shape.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/vehicle.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/character.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/new6dof.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/vehicle.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/collision.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/new6dof.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/softbody.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/collision.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/debug.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/softbody.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/misc.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/debug.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/build.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/misc.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/demos.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/build.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/lexicon.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/demos.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Libbulletjme/lbj-en/English/lexicon.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Minie/minie/implementation.html</loc>
@@ -104,6 +107,48 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/Minie/minie/depends.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/add.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/hello.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/bind.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/signal.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/combo.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/mimic.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/toggle.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/more.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/sandbox.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/camera.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/modes.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/dsedit.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/headless.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/acorus-en/English/build.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/com/jme3/bullet/objects/PhysicsRigidBody.html</loc>
@@ -631,9 +676,6 @@
     <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/BulletAppState.ThreadingType.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/PhysicsSpace.BroadphaseType.html</loc>
-  </url>
-  <url>
     <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/BulletDebugAppState.html</loc>
   </url>
   <url>
@@ -644,6 +686,9 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/BulletDebugAppState.DebugAppStateFilter.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/PhysicsSpace.BroadphaseType.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/debug/DebugInitListener.html</loc>
