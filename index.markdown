@@ -111,7 +111,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     + artifact ID: MaVehicles
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/MaVehicles),
-      [GitHub](https://github.com/stephengold/jme-vehicles/releases/latest)
+      [GitHub](https://github.com/stephengold/jme-vehicles/releases)
     + [browse recent commits](https://github.com/stephengold/jme-vehicles/commits/master)
   + **[SkyControl](https://github.com/stephengold/SkyControl)**,
     a sky simulator
