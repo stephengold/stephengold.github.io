@@ -85,11 +85,13 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     + artifact ID: jme3-utilities-nifty
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/jme3-utilities-nifty),
+      [GitHub](https://github.com/stephengold/jme3-utilities/releases)
   + **[jme3-utilities-x](https://github.com/stephengold/jme3-utilities)**,
     an experimental add-on library
     + artifact ID: jme3-utilities-x
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/jme3-utilities-x),
+      [GitHub](https://github.com/stephengold/jme3-utilities/releases)
   + **[JmePower](https://github.com/stephengold/JmePower)**,
     a loading animation
     + artifact ID: JmePower
