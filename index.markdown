@@ -40,6 +40,8 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     [Central](https://repo1.maven.org/maven2/com/github/stephengold/Libbulletjme),
     [GitHub](https://github.com/stephengold/Libbulletjme/releases/latest)
   + [browse recent commits](https://github.com/stephengold/Libbulletjme/commits/master)
+
++ Add-on projects for Libbulletjme:
   + **[LbjExamples](https://github.com/stephengold/LbjExamples)**,
     example applications using Libbulletjme
     + [browse recent commits](https://github.com/stephengold/LbjExamples/commits/master)
