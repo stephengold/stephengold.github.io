@@ -43,11 +43,11 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
 
 + Add-on projects for Libbulletjme:
   + **[LbjExamples](https://github.com/stephengold/LbjExamples)**,
-    tutorial, example applications, and a graphics engine for Libbulletjme,
+    a tutorial, a set of example applications, and a graphics engine for Libbulletjme,
     based on [OpenGL](https://www.khronos.org/opengl/)
     + [browse recent commits](https://github.com/stephengold/LbjExamples/commits/master)
   + **[V-Sport](https://github.com/stephengold/V-Sport)**,
-    example applications and a graphics engine for Libbulletjme,
+    a set of example applications and a graphics engine for Libbulletjme,
     based on [Vulkan](https://www.vulkan.org/)
     + [browse recent commits](https://github.com/stephengold/V-Sport/commits/master)
 
