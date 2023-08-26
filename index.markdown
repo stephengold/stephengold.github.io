@@ -41,6 +41,11 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
 + **[LbjExamples](https://github.com/stephengold/LbjExamples)**,
   example applications using Libbulletjme
   + [browse recent commits](https://github.com/stephengold/LbjExamples/commits/master)
++ **[V-Sport](https://github.com/stephengold/V-Sport)**,
+  a 3-D graphics engine for JVM applications,
+  based on [LWJGL](https://www.lwjgl.org/)
+  and [Vulkan](https://www.vulkan.org/)
+  + [browse recent commits](https://github.com/stephengold/V-Sport/commits/master)
 
 + **[JMonkeyEngine](https://jmonkeyengine.org)**,
   a code-centric 3-D game engine based on [LWJGL](https://www.lwjgl.org)
