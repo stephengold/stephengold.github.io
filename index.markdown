@@ -40,14 +40,14 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     [Central](https://repo1.maven.org/maven2/com/github/stephengold/Libbulletjme),
     [GitHub](https://github.com/stephengold/Libbulletjme/releases/latest)
   + [browse recent commits](https://github.com/stephengold/Libbulletjme/commits/master)
-+ **[LbjExamples](https://github.com/stephengold/LbjExamples)**,
-  example applications using Libbulletjme
-  + [browse recent commits](https://github.com/stephengold/LbjExamples/commits/master)
-+ **[V-Sport](https://github.com/stephengold/V-Sport)**,
-  a 3-D graphics engine for JVM applications,
-  based on [LWJGL](https://www.lwjgl.org/)
-  and [Vulkan](https://www.vulkan.org/)
-  + [browse recent commits](https://github.com/stephengold/V-Sport/commits/master)
+  + **[LbjExamples](https://github.com/stephengold/LbjExamples)**,
+    example applications using Libbulletjme
+    + [browse recent commits](https://github.com/stephengold/LbjExamples/commits/master)
+  + **[V-Sport](https://github.com/stephengold/V-Sport)**,
+    a 3-D graphics engine for JVM applications,
+    based on [LWJGL](https://www.lwjgl.org/)
+    and [Vulkan](https://www.vulkan.org/)
+    + [browse recent commits](https://github.com/stephengold/V-Sport/commits/master)
 
 + **[JMonkeyEngine](https://jmonkeyengine.org)**,
   a code-centric 3-D game engine based on [LWJGL](https://www.lwjgl.org)
