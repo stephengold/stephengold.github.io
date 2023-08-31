@@ -17,7 +17,7 @@ His current software interests include:
 + [procedural generation of textures and meshes](https://en.wikipedia.org/wiki/Procedural_generation)
 + [approximate convex decomposition](http://masc.cs.gmu.edu/wiki/ACD)
 
-You can follow [his devblog at Tumblr](https://www.tumblr.com/frog707).
+You can follow [his devlog at Tumblr](https://www.tumblr.com/frog707).
 
 ### [Projects at GitHub](https://github.com/stephengold?tab=repositories)
 
