@@ -119,6 +119,9 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/jme-ttf),
       [GitHub](https://github.com/stephengold/jME-TTF/releases/latest)
     + [browse recent commits](https://github.com/stephengold/jME-TTF/commits/master)
+  + **[MonkeyWrench](https://github.com/stephengold/MonkeyWrench)**,
+    a model loader based on [the Open Asset Importer Library](https://www.assimp.org/)
+    + [browse recent commits](https://github.com/stephengold/MonkeyWrench/commits/master)
   + **[More Advanced Vehicles](https://github.com/stephengold/jme-vehicles)**,
     a vehicle simulator based on Minie
     + artifact ID: MaVehicles
