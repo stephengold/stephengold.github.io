@@ -4,9 +4,11 @@ layout: home
 
 Stephen Gold is a computer hobbyist
 who creates, collects, maintains, and publishes open-source
-[JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) libraries.
-He lives in California and holds an advanced degree in Electrical Engineering.
-At the present time, he is not seeking donations or employment.
+[JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) software.
+
+He resides in California with his sweetheart.
+He holds an advanced degree in Electrical Engineering.
+At the present time, he is not seeking funding or employment.
 
 His current software interests include:
 + [3-D graphics](https://en.wikipedia.org/wiki/3D_computer_graphics)
