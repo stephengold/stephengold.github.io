@@ -6,7 +6,7 @@ Stephen Gold is a computer hobbyist
 who creates, collects, maintains, and publishes open-source
 [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) software.
 
-He resides in California with his sweetheart.
+He resides in California with his (long-term) sweetheart.
 He holds an advanced degree in Electrical Engineering.
 At the present time, he is not seeking funding or employment.
 
