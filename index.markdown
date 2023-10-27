@@ -225,6 +225,9 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
       + find the latest release:
         [GitHub](https://github.com/stephengold/antora-ui-bundle/releases/latest)
       + [browse recent commits](https://github.com/stephengold/antora-ui-bundle/commits/master)
+  + **[Minie-site-it](https://github.com/stephengold/Minie-site-it)**,
+    an Italian translation of the Minie project website
+      + [browse recent commits](https://github.com/stephengold/Minie-site-it/commits/master)
   + **[stephengold.guihub.io](https://github.com/stephengold/stephengold.github.io)**,
     this website
     + [browse recent commits](https://github.com/stephengold/stephengold.github.io/commits/master)
