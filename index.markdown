@@ -219,12 +219,12 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
       [GitHub](https://github.com/stephengold/stack-alloc/releases/latest)
     + [browse recent commits](https://github.com/stephengold/stack-alloc/commits/master)
 
-+ **[antora-ui-bundle](https://github.com/stephengold/antora-ui-bundle)**,
-  an [Antora](https://antora.org/) user-interface bundle
-    + find the latest release:
-      [GitHub](https://github.com/stephengold/antora-ui-bundle/releases/latest)
-    + [browse recent commits](https://github.com/stephengold/antora-ui-bundle/commits/master)
-
-+ **[stephengold.guihub.io](https://github.com/stephengold/stephengold.github.io)**,
-  this website
-  + [browse recent commits](https://github.com/stephengold/stephengold.github.io/commits/master)
++ Documentation projects:
+  + **[antora-ui-bundle](https://github.com/stephengold/antora-ui-bundle)**,
+    an [Antora](https://antora.org/) user-interface bundle
+      + find the latest release:
+        [GitHub](https://github.com/stephengold/antora-ui-bundle/releases/latest)
+      + [browse recent commits](https://github.com/stephengold/antora-ui-bundle/commits/master)
+  + **[stephengold.guihub.io](https://github.com/stephengold/stephengold.github.io)**,
+    this website
+    + [browse recent commits](https://github.com/stephengold/stephengold.github.io/commits/master)
