@@ -123,6 +123,10 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     + [browse recent commits](https://github.com/stephengold/jME-TTF/commits/master)
   + **[MonkeyWrench](https://github.com/stephengold/MonkeyWrench)**,
     a model loader based on [the Open Asset Importer Library](https://www.assimp.org/)
+    + artifact ID: MonkeyWrench
+    + find the latest release:
+      [Central](https://repo1.maven.org/maven2/com/github/stephengold/MonkeyWrench),
+      [GitHub](https://github.com/stephengold/MonkeyWrench/releases)
     + [browse recent commits](https://github.com/stephengold/MonkeyWrench/commits/master)
   + **[More Advanced Vehicles](https://github.com/stephengold/jme-vehicles)**,
     a vehicle simulator based on Minie
