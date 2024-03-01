@@ -331,6 +331,9 @@
     <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/SphereCollisionShape.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/CustomConvexShape.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/util/CollisionShapeFactory.html</loc>
   </url>
   <url>
@@ -460,10 +463,10 @@
     <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/com/simsilica/mathd/Matrix3d.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/com/jme3/math/Transform.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/com/simsilica/mathd/Quatd.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/com/simsilica/mathd/Quatd.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/com/jme3/math/Transform.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/com/jme3/bullet/collision/shapes/package-summary.html</loc>
@@ -665,9 +668,6 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/package-tree.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/Minie/javadoc/master/deprecated-list.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Minie/javadoc/master/index-all.html</loc>
@@ -1012,10 +1012,10 @@
     <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/jme3utilities/minie/DumpFlags.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/com/jme3/bullet/objects/infos/ConfigFlag.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/jme3utilities/math/MyMath.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/jme3utilities/math/MyMath.html</loc>
+    <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/com/jme3/bullet/objects/infos/ConfigFlag.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/com/jme3/math/Matrix4f.html</loc>
@@ -1297,9 +1297,6 @@
     <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/PreComposer.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/collision/shapes/CustomConvexShape.html</loc>
-  </url>
-  <url>
     <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/joints/SoftAngularJoint.html</loc>
   </url>
   <url>
@@ -1436,9 +1433,6 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/Acorus/javadoc/master/jme3utilities/ui/DsEditOverlay.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/Acorus/javadoc/master/jme3utilities/ui/DsUtils.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Acorus/javadoc/master/jme3utilities/ui/HelpBuilder.html</loc>
