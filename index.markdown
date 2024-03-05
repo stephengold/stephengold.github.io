@@ -16,7 +16,7 @@ His current software interests include:
 + [skeletal animation](https://en.wikipedia.org/wiki/Skeletal_animation)
 + [build automation](https://en.wikipedia.org/wiki/Build_automation)
 + [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm)
-+ [procedural generation of textures and meshes](https://en.wikipedia.org/wiki/Procedural_generation)
++ [procedural generation of shapes, meshes, and textures](https://en.wikipedia.org/wiki/Procedural_generation)
 + [approximate convex decomposition](http://masc.cs.gmu.edu/wiki/ACD)
 
 You can follow [his devlog at Tumblr](https://www.tumblr.com/frog707).
