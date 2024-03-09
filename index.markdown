@@ -56,8 +56,8 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
       [GitHub](https://github.com/stephengold/sport/releases/latest)
     + [browse recent commits](https://github.com/stephengold/sport/commits/master)
   + **[V-Sport](https://github.com/stephengold/V-Sport)**,
-    a set of example applications and a graphics engine for Libbulletjme,
-    based on [Vulkan](https://www.vulkan.org/)
+    a [Vulkan](https://www.vulkan.org/)-based graphics engine for Libbulletjme,
+    with demo applications and simple example applications
     + artifact ID: V-Sport
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/V-Sport),
