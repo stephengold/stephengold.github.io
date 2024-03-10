@@ -45,10 +45,10 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
 
 + Add-on projects for Libbulletjme:
   + **[LbjExamples](https://github.com/stephengold/LbjExamples)**,
-    a tutorial for Libbulletjme with simple example applications
+    a tutorial for Libbulletjme, with simple example applications
     + [browse recent commits](https://github.com/stephengold/LbjExamples/commits/master)
   + **[SPORT](https://github.com/stephengold/sport)**,
-    an [OpenGL](https://www.khronos.org/opengl/)-based graphics engine for Libbulletjme
+    an [OpenGL](https://www.khronos.org/opengl/)-based graphics engine for Libbulletjme,
     with demo applications
     + artifact ID: sport
     + find the latest release:
