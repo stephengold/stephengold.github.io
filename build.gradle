@@ -1,4 +1,4 @@
-// Gradle build script for the stephengold.github.io project
+// Gradle script to clean up the stephengold.github.io project
 
 plugins {
     id 'base' // to add a "clean" task to the project
