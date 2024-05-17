@@ -176,8 +176,12 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     + [browse recent commits](https://github.com/stephengold/Banana/commits/master)
   + **[BasicGame-on-Gradle](https://github.com/stephengold/BasicGame-on-Gradle)**,
     a template for building JMonkeyEngine applications
-    using [Gradle](https://gradle.org)
+    using [Gradle](https://gradle.org) and [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
     + [browse recent commits](https://github.com/stephengold/BasicGame-on-Gradle/commits/master)
+  + **[BasicGame-on-Kotlin](https://github.com/stephengold/BasicGame-on-Kotlin)**,
+    a template for building JMonkeyEngine applications
+    using [Gradle](https://gradle.org) and [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
+    + [browse recent commits](https://github.com/stephengold/BasicGame-on-Kotlin/commits/master)
   + **[DacWizard](https://github.com/stephengold/Minie)**,
     a tool for configuring ragdoll physics
   + **[FuzeCreek](https://github.com/stephengold/FuzeCreek)**,
