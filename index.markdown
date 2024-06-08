@@ -202,6 +202,9 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
   + **[RyzomDemos](https://github.com/stephengold/RyzomDemos)**,
     example applications using assets imported by RyzomConverter
     + [browse recent commits](https://github.com/stephengold/RyzomDemos/commits/master)
+  + **[VhacdTuner](https://github.com/stephengold/VhacdTuner)**,
+    a GUI app to tune the V-HACD algorithm for a specific mesh
+    + [browse recent commits](https://github.com/stephengold/VhacdTuner/commits/master)
 
 + Ancient JVM libraries:
   + **[asm 3.1](https://github.com/stephengold/asm)**,
