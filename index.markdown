@@ -182,8 +182,9 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     a template for building JMonkeyEngine applications
     using [Gradle](https://gradle.org) and [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
     + [browse recent commits](https://github.com/stephengold/BasicGame-on-Kotlin/commits/master)
-  + **[DacWizard](https://github.com/stephengold/Minie)**,
-    a tool for configuring ragdoll physics
+  + **[DacWizard](https://github.com/stephengold/DacWizard)**,
+    a GUI app for configuring Minie ragdoll physics
+    + [browse recent commits](https://github.com/stephengold/DacWizard/commits/master)
   + **[FuzeCreek](https://github.com/stephengold/FuzeCreek)**,
     a real-time river-rafting game
     + [browse recent commits](https://github.com/stephengold/FuzeCreek/commits/master)
