@@ -4,7 +4,8 @@ layout: home
 
 Stephen Gold is a computer hobbyist
 who creates, collects, maintains, and publishes open-source
-[JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) software.
+[JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) software,
+including apps, libraries, and documentation.
 
 He holds an advanced degree in Electrical Engineering.
 He resides in California with his (long-term) sweetheart.
@@ -14,7 +15,7 @@ His current software interests include:
 + [3-D graphics](https://en.wikipedia.org/wiki/3D_computer_graphics)
 + [physics simulation](https://en.wikipedia.org/wiki/Physics_engine)
 + [skeletal animation](https://en.wikipedia.org/wiki/Skeletal_animation)
-+ [build automation](https://en.wikipedia.org/wiki/Build_automation)
++ [software build automation](https://en.wikipedia.org/wiki/Build_automation)
 + [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm)
 + [procedural generation of shapes, meshes, and textures](https://en.wikipedia.org/wiki/Procedural_generation)
 + [approximate convex decomposition](http://masc.cs.gmu.edu/wiki/ACD)
@@ -77,7 +78,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
 
 + Add-on libraries for JMonkeyEngine:
   + **[Minie](https://stephengold.github.io/Minie)**,
-    a physics engine based on Libbulletjme
+    a 3-D physics engine based on Libbulletjme
     + Maven artifact ID: "Minie"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/Minie),
@@ -167,7 +168,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
       [GitHub](https://github.com/stephengold/Wes/releases/latest)
     + [browse recent commits](https://github.com/stephengold/Wes/commits/master)
 
-+ JMonkeyEngine applications:
++ JMonkeyEngine apps:
   + **[Archer-Game-Template2](https://github.com/capdevon/Archer-Game-Template2)**,
     a first-person shooter game
     + [browse recent commits](https://github.com/capdevon/Archer-Game-Template2/commits/main)
