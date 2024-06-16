@@ -37,7 +37,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
   a 3-D physics library for JVM applications,
   based on [Bullet](https://pybullet.org)
   and [V-HACD](https://github.com/kmammou/v-hacd)
-  + artifact ID: Libbulletjme
+  + Maven artifact ID: "Libbulletjme"
   + find the latest release:
     [Central](https://repo1.maven.org/maven2/com/github/stephengold/Libbulletjme),
     [GitHub](https://github.com/stephengold/Libbulletjme/releases/latest)
@@ -50,7 +50,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
   + **[SPORT](https://github.com/stephengold/sport)**,
     an [OpenGL](https://www.khronos.org/opengl/)-based graphics engine for Libbulletjme,
     with demo applications
-    + artifact ID: sport
+    + Maven artifact ID: "sport"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/sport),
       [GitHub](https://github.com/stephengold/sport/releases/latest)
@@ -61,7 +61,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
   + **[V-Sport](https://github.com/stephengold/V-Sport)**,
     a [Vulkan](https://www.vulkan.org/)-based graphics engine for Libbulletjme,
     with demo applications and simple example applications
-    + artifact ID: V-Sport
+    + Maven artifact ID: "V-Sport"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/V-Sport),
       [GitHub](https://github.com/stephengold/V-Sport/releases/latest)
@@ -78,28 +78,28 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
 + Add-on libraries for JMonkeyEngine:
   + **[Minie](https://stephengold.github.io/Minie)**,
     a physics engine based on Libbulletjme
-    + artifact ID: Minie
+    + Maven artifact ID: "Minie"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/Minie),
       [GitHub](https://github.com/stephengold/Minie/releases/latest)
     + [browse recent commits](https://github.com/stephengold/Minie/commits/master)
   + **[Acorus](https://stephengold.github.io/Acorus)**,
     a simple user interface for demo/test desktop applications
-    + artifact ID: Acorus
+    + Maven artifact ID: "Acorus"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/Acorus),
       [GitHub](https://github.com/stephengold/Acorus/releases/latest)
     + [browse recent commits](https://github.com/stephengold/Acorus/commits/master)
   + **[Garrett](https://github.com/stephengold/Garrett)**,
     a suite of camera controllers based on Acorus and Minie
-    + artifact ID: Garrett
+    + Maven artifact ID: "Garrett"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/Garrett),
       [GitHub](https://github.com/stephengold/Garrett/releases/latest)
     + [browse recent commits](https://github.com/stephengold/Garrett/commits/master)
   + **[Heart](https://github.com/stephengold/Heart)**,
     a general-purpose add-on library
-    + artifact ID: Heart
+    + Maven artifact ID: "Heart"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/Heart),
       [GitHub](https://github.com/stephengold/Heart/releases/latest)
@@ -107,61 +107,61 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
   + **[jme3-utilities-nifty](https://github.com/stephengold/jme3-utilities)**,
     a graphical user interface
     based on [NiftyGUI](https://nifty-gui.github.io/nifty-gui)
-    + artifact ID: jme3-utilities-nifty
+    + Maven artifact ID: "jme3-utilities-nifty"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/jme3-utilities-nifty),
       [GitHub](https://github.com/stephengold/jme3-utilities/releases)
   + **[jme3-utilities-x](https://github.com/stephengold/jme3-utilities)**,
     an experimental add-on library
-    + artifact ID: jme3-utilities-x
+    + Maven artifact ID: "jme3-utilities-x"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/jme3-utilities-x),
       [GitHub](https://github.com/stephengold/jme3-utilities/releases)
   + **[JmePower](https://github.com/stephengold/JmePower)**,
     a loading animation
-    + artifact ID: JmePower
+    + Maven artifact ID: "JmePower"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/JmePower),
       [GitHub](https://github.com/stephengold/JmePower/releases/latest)
     + [browse recent commits](https://github.com/stephengold/JmePower/commits/master)
   + **[jME-TTF](https://github.com/stephengold/jME-TTF)**,
     a renderer for TrueType fonts
-    + artifact ID: jme-ttf
+    + Maven artifact ID: "jme-ttf"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/jme-ttf),
       [GitHub](https://github.com/stephengold/jME-TTF/releases/latest)
     + [browse recent commits](https://github.com/stephengold/jME-TTF/commits/master)
   + **[MonkeyWrench](https://github.com/stephengold/MonkeyWrench)**,
     a model loader based on [the Open Asset Importer Library](https://www.assimp.org/)
-    + artifact ID: MonkeyWrench
+    + Maven artifact ID: "MonkeyWrench"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/MonkeyWrench),
       [GitHub](https://github.com/stephengold/MonkeyWrench/releases)
     + [browse recent commits](https://github.com/stephengold/MonkeyWrench/commits/master)
   + **[More Advanced Vehicles](https://github.com/stephengold/jme-vehicles)**,
     a vehicle simulator based on Minie
-    + artifact ID: MaVehicles
+    + Maven artifact ID: "MaVehicles"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/MaVehicles),
       [GitHub](https://github.com/stephengold/jme-vehicles/releases)
     + [browse recent commits](https://github.com/stephengold/jme-vehicles/commits/master)
   + **[SkyControl](https://github.com/stephengold/SkyControl)**,
     a sky simulator
-    + artifact ID: SkyControl
+    + Maven artifact ID: "SkyControl"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/SkyControl),
       [GitHub](https://github.com/stephengold/SkyControl/releases/latest)
     + [browse recent commits](https://github.com/stephengold/SkyControl/commits/master)
   + **[tonegodgui](https://github.com/stephengold/tonegodgui)**,
     another graphical user interface
-    + artifact ID: tonegodgui
+    + Maven artifact ID: "tonegodgui"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/tonegodgui),
       [GitHub](https://github.com/stephengold/tonegodgui/releases/latest)
     + [browse recent commits](https://github.com/stephengold/tonegodgui/commits/master)
   + **[Wes](https://github.com/stephengold/Wes)**,
     edits and retargets skeletal animations
-    + artifact ID: Wes
+    + Maven artifact ID: "Wes"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/Wes),
       [GitHub](https://github.com/stephengold/Wes/releases/latest)
@@ -210,28 +210,28 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
 + Ancient JVM libraries:
   + **[asm 3.1](https://github.com/stephengold/asm)**,
     a framework for manipulating JVM bytecodes
-    + artifact ID: asm-all
+    + Maven artifact ID: "asm-all"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/asm-all),
       [GitHub](https://github.com/stephengold/asm/releases/latest)
     + [browse recent commits](https://github.com/stephengold/asm/commits/master)
   + **[jbullet](https://github.com/stephengold/jbullet)**,
     a 3-D physics library written entirely in Java
-    + artifact ID: jbullet
+    + Maven artifact ID: "jbullet"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/jbullet),
       [GitHub](https://github.com/stephengold/jbullet/releases/latest)
     + [browse recent commits](https://github.com/stephengold/jbullet/commits/master)
   + **[j-ogg-all](https://github.com/stephengold/j-ogg-all)**,
     reads [Ogg](https://www.xiph.org/ogg/) bitstreams and decodes the media they contain
-    + artifact IDs: j-ogg-all and j-ogg-vorbis
+    + Maven artifact IDs: "j-ogg-all" and "j-ogg-vorbis"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold),
       [GitHub](https://github.com/stephengold/j-ogg-all/releases/latest)
     + [browse recent commits](https://github.com/stephengold/j-ogg-all/commits/master)
   + **[stack-alloc](https://github.com/stephengold/stack-alloc)**,
     allocates JVM objects on the stack instead of on the heap
-    + artifact ID: stack-alloc
+    + Maven artifact ID: "stack-alloc"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/stack-alloc),
       [GitHub](https://github.com/stephengold/stack-alloc/releases/latest)
