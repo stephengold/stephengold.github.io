@@ -58,6 +58,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
     + [browse recent commits](https://github.com/stephengold/sport/commits/master)
   + **[Macana](https://github.com/stephengold/macana)**,
     integrates [Obsidian](https://github.com/MyWorldLLC/Obsidian) user interfaces into SPORT
+    + currently in the testbed stage (unreleased)
     + [browse recent commits](https://github.com/stephengold/macana/commits/master)
   + **[V-Sport](https://github.com/stephengold/V-Sport)**,
     a [Vulkan](https://www.vulkan.org/)-based graphics engine for Libbulletjme,
