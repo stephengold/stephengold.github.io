@@ -76,7 +76,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
 
 + **[JMonkeyEngine](https://jmonkeyengine.org)**,
   a code-centric 3-D game engine based on [LWJGL](https://www.lwjgl.org)
-  + group ID: [org.jmonkeyengine](https://central.sonatype.com/namespace/org.jmonkeyengine)
+  + Maven group ID: [org.jmonkeyengine](https://central.sonatype.com/namespace/org.jmonkeyengine)
   + find the latest release:
     [Central](https://repo1.maven.org/maven2/com/github/jmonkeyengine/jmonkeyengine),
     [GitHub](https://github.com/jmonkeyengine/jmonkeyengine/releases/latest)
