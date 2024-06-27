@@ -69,6 +69,11 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
       [GitHub](https://github.com/stephengold/V-Sport/releases/latest)
     + [browse recent commits](https://github.com/stephengold/V-Sport/commits/master)
 
++ **[jolt-jni](https://github.com/stephengold/jolt-jni)**,
+  [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) bindings
+  for [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
+  + [browse recent commits](https://github.com/stephengold/jolt-jni/commits/master)
+
 + **[JMonkeyEngine](https://jmonkeyengine.org)**,
   a code-centric 3-D game engine based on [LWJGL](https://www.lwjgl.org)
   + group ID: [org.jmonkeyengine](https://central.sonatype.com/namespace/org.jmonkeyengine)
