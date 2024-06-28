@@ -83,7 +83,7 @@ by Maven coordinates (group ID, artifact ID, and version) in their buildscripts.
   + [browse recent commits](https://github.com/jmonkeyengine/jmonkeyengine/commits/master)
 
 + Add-on libraries for JMonkeyEngine:
-  + **[KK Physics](https://github.com/stephengold/kk-physics)**
+  + **[KK Physics](https://github.com/stephengold/kk-physics)**,
     a 3-D physics engine based on [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
     + Maven artifact ID: "kk-physics"
     + currently in the proof-of-concept stage (unreleased)
