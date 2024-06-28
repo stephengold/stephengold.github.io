@@ -23,7 +23,7 @@ His current software interests include:
 You can follow [his devlog at Tumblr](https://www.tumblr.com/frog707).
 
 
-### Computer jargon
+## Computer jargon
 
 Digital devices (such as computers and phones)
 combine *hardware* and *software*.
@@ -37,7 +37,7 @@ when the Enter key is pressed.
 Depending what software is running,
 the same hardware might respond differently to identical keystrokes.
 
-#### Source code and open-source
+### Source code and open-source
 
 Software, in its finished form, consists of long strings of numbers
 suitable for controlling a particular kind of device.
@@ -65,7 +65,7 @@ except ask the cook to use less salt next time or try a different cook.
 Acquiring source code is like collecting recipes,
 so you can cook dishes at home and adapt them to your taste.
 
-#### Apps and libraries
+### Apps and libraries
 
 There are many kinds of software projects, including apps and libraries.
 
@@ -91,7 +91,7 @@ and libraries are ingredients ready to be cooked.
 The availability of mass-produced ingredients like flour and cheese
 frees cooks from needing to grow their own wheat or raise their own livestock.
 
-#### Repositories and commits
+### Repositories and commits
 
 Software projects often involve collaboration,
 with hundreds of people making thousands of changes
@@ -104,8 +104,7 @@ The individual changes are called *commits*.
 Projects also use repositories
 to keep a history of all their officially-published products.
 
-
-#### Artifacts and coordinates
+### Artifacts and coordinates
 
 In the world of JVM software, libraries
 are distributed in the form of pre-built software *artifacts*.
@@ -120,7 +119,7 @@ Given the coordinates of a library,
 software build tools automatically download the corresponding artifacts.
 
 
-### [Stephen's open-source software projects at GitHub](https://github.com/stephengold?tab=repositories)
+## [Stephen's open-source software projects at GitHub](https://github.com/stephengold?tab=repositories)
 
 Stephen publishes source code and build instructions
 for his open-source software projects at [GitHub](https://github.com).
