@@ -116,7 +116,8 @@ Instead, they can simply refer to them by their
 Maven coordinates consist of three parts:
 a group ID, an artifact ID, and a version string.
 Given the coordinates of a library,
-software build tools automatically download the corresponding artifacts.
+software build tools automatically download the corresponding artifacts
+from the repositories that hold them.
 
 
 ## [Stephen's open-source software projects at GitHub](https://github.com/stephengold?tab=repositories)
