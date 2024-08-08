@@ -73,7 +73,7 @@ There are many kinds of software projects, including apps and libraries.
 An app is a piece of software whose function is clear to the end user,
 such as a word game, a web browser, or a video mixer.
 
-A [library](https://en.wikipedia.org/wiki/Library_%28computing%29),
+A [library](https://en.wikipedia.org/wiki/Library_%28computing%29)
 is a software building block, used in other (larger) projects.
 Libraries matter greatly to people who create and maintain software,
 but are mostly invisible to end users.
