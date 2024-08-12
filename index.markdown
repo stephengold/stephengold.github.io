@@ -167,6 +167,12 @@ under the
 + **[jolt-jni](https://github.com/stephengold/jolt-jni)**,
   [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) bindings
   for [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
+  + Maven artifact IDs: "jolt-jni-Linux64", "jolt-jni-Linux_ARM32hf",
+    "jolt-jni-Linux_ARM64", "jolt-jni-MacOSX64", "jolt-jni-MacOSX_ARM64", and
+    "jolt-jni-Windows64"
+  + find the latest release:
+    [Central](https://repo1.maven.org/maven2/com/github/stephengold),
+    [GitHub](https://github.com/stephengold/jolt-jni/releases/latest)
   + [browse recent commits](https://github.com/stephengold/jolt-jni/commits/master)
 
 + **[JMonkeyEngine](https://jmonkeyengine.org)**,
@@ -179,9 +185,11 @@ under the
 
 + Add-on libraries for JMonkeyEngine:
   + **[KK Physics](https://github.com/stephengold/kk-physics)**,
-    a 3-D physics engine based on [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
+    a 3-D physics engine based on jolt-jni
     + Maven artifact ID: "kk-physics"
-    + currently in the proof-of-concept stage (unreleased)
+    + find the latest release:
+      [Central](https://repo1.maven.org/maven2/com/github/stephengold/kk-physics/),
+      [GitHub](https://github.com/stephengold/kk-physics/releases/latest)
     + [browse recent commits](https://github.com/stephengold/kk-physics/commits/master)
   + **[Minie](https://stephengold.github.io/Minie)**,
     a 3-D physics engine based on Libbulletjme
