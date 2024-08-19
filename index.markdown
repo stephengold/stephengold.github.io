@@ -18,7 +18,7 @@ His current software interests include:
 + [software build automation](https://en.wikipedia.org/wiki/Build_automation)
 + [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm)
 + [procedural generation of shapes, meshes, and textures](https://en.wikipedia.org/wiki/Procedural_generation)
-+ [approximate convex decomposition](http://masc.cs.gmu.edu/wiki/ACD)
++ [approximate convex decomposition](https://parasollab.web.illinois.edu/research/ACD)
 
 You can follow [his devlog at Tumblr](https://www.tumblr.com/frog707).
 
