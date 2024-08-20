@@ -50,9 +50,9 @@ into the desired numbers.
 whose source code is readily available.
 
 Plenty of software is sold without its source code,
-in the belief that buyer needs only the numeric software
+in the belief that the buyer needs only the numeric software
 that runs on their device.
-That might be true if the software
+That might be true if software
 were perfectly versatile and never became obsolete.
 But in order to substantially adapt or maintain a piece of software,
 one needs the source code.
