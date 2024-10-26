@@ -32,6 +32,17 @@ He also releases artifacts to
 under the
 [com.github.stephengold](https://central.sonatype.com/namespace/com.github.stephengold) group ID.
 
++ **[jolt-jni](https://github.com/stephengold/jolt-jni)**,
+  [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) bindings
+  for [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
+  + Maven artifact IDs: "jolt-jni-Linux64", "jolt-jni-Linux_ARM32hf",
+    "jolt-jni-Linux_ARM64", "jolt-jni-MacOSX64", "jolt-jni-MacOSX_ARM64", and
+    "jolt-jni-Windows64"
+  + find the latest release:
+    [Central](https://repo1.maven.org/maven2/com/github/stephengold),
+    [GitHub](https://github.com/stephengold/jolt-jni/releases/latest)
+  + [browse recent commits](https://github.com/stephengold/jolt-jni/commits/master)
+
 + **[Libbulletjme](https://stephengold.github.io/Libbulletjme)**,
   a 3-D physics library for JVM applications,
   based on [Bullet](https://pybullet.org)
@@ -66,17 +77,6 @@ under the
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/V-Sport),
       [GitHub](https://github.com/stephengold/V-Sport/releases/latest)
     + [browse recent commits](https://github.com/stephengold/V-Sport/commits/master)
-
-+ **[jolt-jni](https://github.com/stephengold/jolt-jni)**,
-  [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) bindings
-  for [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
-  + Maven artifact IDs: "jolt-jni-Linux64", "jolt-jni-Linux_ARM32hf",
-    "jolt-jni-Linux_ARM64", "jolt-jni-MacOSX64", "jolt-jni-MacOSX_ARM64", and
-    "jolt-jni-Windows64"
-  + find the latest release:
-    [Central](https://repo1.maven.org/maven2/com/github/stephengold),
-    [GitHub](https://github.com/stephengold/jolt-jni/releases/latest)
-  + [browse recent commits](https://github.com/stephengold/jolt-jni/commits/master)
 
 + **[JMonkeyEngine](https://jmonkeyengine.org)**,
   a code-centric 3-D game engine based on [LWJGL](https://www.lwjgl.org)
