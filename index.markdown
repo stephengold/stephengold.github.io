@@ -87,13 +87,6 @@ under the
   + [browse recent commits](https://github.com/jmonkeyengine/jmonkeyengine/commits/master)
 
 + Add-on libraries for JMonkeyEngine:
-  + **[KK Physics](https://github.com/stephengold/kk-physics)**,
-    a 3-D physics engine based on jolt-jni
-    + Maven artifact ID: "kk-physics"
-    + find the latest release:
-      [Central](https://repo1.maven.org/maven2/com/github/stephengold/kk-physics/),
-      [GitHub](https://github.com/stephengold/kk-physics/releases/latest)
-    + [browse recent commits](https://github.com/stephengold/kk-physics/commits/master)
   + **[Minie](https://stephengold.github.io/Minie)**,
     a 3-D physics engine based on Libbulletjme
     + Maven artifact ID: "Minie"
@@ -149,6 +142,13 @@ under the
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/jme-ttf),
       [GitHub](https://github.com/stephengold/jME-TTF/releases/latest)
     + [browse recent commits](https://github.com/stephengold/jME-TTF/commits/master)
+  + **[KK Physics](https://github.com/stephengold/kk-physics)**,
+    a 3-D physics engine based on jolt-jni
+    + Maven artifact ID: "kk-physics"
+    + find the latest release:
+      [Central](https://repo1.maven.org/maven2/com/github/stephengold/kk-physics/),
+      [GitHub](https://github.com/stephengold/kk-physics/releases/latest)
+    + [browse recent commits](https://github.com/stephengold/kk-physics/commits/master)
   + **[MonkeyWrench](https://github.com/stephengold/MonkeyWrench)**,
     a model loader based on [the Open Asset Importer Library](https://www.assimp.org/)
     + Maven artifact ID: "MonkeyWrench"
