@@ -65,10 +65,6 @@ under the
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/sport),
       [GitHub](https://github.com/stephengold/sport/releases/latest)
     + [browse recent commits](https://github.com/stephengold/sport/commits/master)
-  + **[Macana](https://github.com/stephengold/macana)**,
-    integrates [Obsidian](https://github.com/MyWorldLLC/Obsidian) user interfaces into SPORT
-    + currently in the testbed stage (unreleased)
-    + [browse recent commits](https://github.com/stephengold/macana/commits/master)
   + **[V-Sport](https://github.com/stephengold/V-Sport)**,
     a [Vulkan](https://www.vulkan.org/)-based graphics engine for Libbulletjme,
     with demo applications and simple example applications
@@ -189,9 +185,6 @@ under the
   + **[Archer-Game-Template2](https://github.com/capdevon/Archer-Game-Template2)**,
     a first-person shooter game
     + [browse recent commits](https://github.com/capdevon/Archer-Game-Template2/commits/main)
-  + **[Banana](https://github.com/stephengold/Banana)**,
-    a test suite for physics libraries
-    + [browse recent commits](https://github.com/stephengold/Banana/commits/master)
   + **[BasicGame-on-Gradle](https://github.com/stephengold/BasicGame-on-Gradle)**,
     a template for building JMonkeyEngine applications
     using [Gradle](https://gradle.org) and [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
@@ -261,9 +254,6 @@ under the
       + find the latest release:
         [GitHub](https://github.com/stephengold/antora-ui-bundle/releases/latest)
       + [browse recent commits](https://github.com/stephengold/antora-ui-bundle/commits/master)
-  + **[Minie-site-it](https://github.com/stephengold/Minie-site-it)**,
-    an Italian translation of the Minie project website
-      + [browse recent commits](https://github.com/stephengold/Minie-site-it/commits/master)
   + **[stephengold.guihub.io](https://github.com/stephengold/stephengold.github.io)**,
     this website
     + [browse recent commits](https://github.com/stephengold/stephengold.github.io/commits/master)
