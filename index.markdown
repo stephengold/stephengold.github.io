@@ -35,7 +35,7 @@ under the
 + **[jolt-jni](https://github.com/stephengold/jolt-jni)**,
   [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) bindings
   for [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
-  + Maven artifact IDs: "jolt-jni-Linux64", "jolt-jni-Linux_ARM32hf",
+  + Maven artifact IDs: "jolt-jni-Android", "jolt-jni-Linux64", "jolt-jni-Linux_ARM32hf",
     "jolt-jni-Linux_ARM64", "jolt-jni-MacOSX64", "jolt-jni-MacOSX_ARM64", and
     "jolt-jni-Windows64"
   + find the latest release:
