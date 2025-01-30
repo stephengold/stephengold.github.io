@@ -47,9 +47,12 @@ under the
   a 3-D physics library for JVM applications,
   based on [Bullet](https://pybullet.org)
   and [V-HACD](https://github.com/kmammou/v-hacd)
-  + Maven artifact ID: "Libbulletjme"
+  + Maven artifact IDs: "Libbulletjme", "Libbulletjme-Android",
+    "Libbulletjme-Linux64", "Libbulletjme-Linux_ARM32hf",
+    "Libbulletjme-Linux_ARM64", "Libbulletjme-MacOSX64",
+    "Libbulletjme-MacOSX_ARM64", and "Libbulletjme-Windows64"
   + find the latest release:
-    [Central](https://repo1.maven.org/maven2/com/github/stephengold/Libbulletjme),
+    [Central](https://repo1.maven.org/maven2/com/github/stephengold/Libbulletjme-Windows64/),
     [GitHub](https://github.com/stephengold/Libbulletjme/releases/latest)
   + [browse recent commits](https://github.com/stephengold/Libbulletjme/commits/master)
 
