@@ -35,9 +35,7 @@ under the
 + **[jolt-jni](https://github.com/stephengold/jolt-jni)**,
   [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) bindings
   for [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
-  + Maven artifact IDs: "jolt-jni-Android", "jolt-jni-Linux64", "jolt-jni-Linux_ARM32hf",
-    "jolt-jni-Linux_ARM64", "jolt-jni-MacOSX64", "jolt-jni-MacOSX_ARM64", and
-    "jolt-jni-Windows64"
+  + Maven artifact IDs with the "jolt-jni-" prefix
   + find the latest release:
     [Central](https://repo1.maven.org/maven2/com/github/stephengold),
     [GitHub](https://github.com/stephengold/jolt-jni/releases/latest)
@@ -47,10 +45,7 @@ under the
   a 3-D physics library for JVM applications,
   based on [Bullet](https://pybullet.org)
   and [V-HACD](https://github.com/kmammou/v-hacd)
-  + Maven artifact IDs: "Libbulletjme", "Libbulletjme-Android",
-    "Libbulletjme-Linux64", "Libbulletjme-Linux_ARM32hf",
-    "Libbulletjme-Linux_ARM64", "Libbulletjme-MacOSX64",
-    "Libbulletjme-MacOSX_ARM64", and "Libbulletjme-Windows64"
+  + Maven artifact IDs with the "Libbulletjme" prefix
   + find the latest release:
     [Central](https://repo1.maven.org/maven2/com/github/stephengold/Libbulletjme-Windows64/),
     [GitHub](https://github.com/stephengold/Libbulletjme/releases/latest)
