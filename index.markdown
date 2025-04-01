@@ -32,7 +32,7 @@ He also releases artifacts to
 under the
 [com.github.stephengold](https://central.sonatype.com/namespace/com.github.stephengold) group ID.
 
-+ **[jolt-jni](https://github.com/stephengold/jolt-jni)**,
++ **[Jolt JNI](https://github.com/stephengold/jolt-jni)**,
   [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) bindings
   for [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
   + Maven artifact IDs with the "jolt-jni-" prefix
@@ -137,7 +137,7 @@ under the
       [GitHub](https://github.com/stephengold/jME-TTF/releases/latest)
     + [browse recent commits](https://github.com/stephengold/jME-TTF/commits/master)
   + **[KK Physics](https://github.com/stephengold/kk-physics)**,
-    a 3-D physics engine based on jolt-jni
+    a 3-D physics engine based on Jolt JNI
     + Maven artifact ID: "kk-physics"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/kk-physics/),
