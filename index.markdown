@@ -42,6 +42,16 @@ under the
     [GitHub](https://github.com/stephengold/jolt-jni/releases/latest)
   + [browse recent commits](https://github.com/stephengold/jolt-jni/commits/master)
 
++ Add-on projects for Jolt JNI:
+  + **[Sport Jolt](https://github.com/stephengold/sport-jolt)**,
+    an [OpenGL](https://www.khronos.org/opengl/)-based graphics engine for Jolt JNI,
+    with demo applications
+    + Maven artifact ID: "sport-jolt"
+    + find the latest release:
+      [Central](https://repo1.maven.org/maven2/com/github/stephengold/sport-jolt),
+      [GitHub](https://github.com/stephengold/sport-jolt/releases/latest)
+    + [browse recent commits](https://github.com/stephengold/sport-jolt/commits/master)
+
 + **[Libbulletjme](https://stephengold.github.io/Libbulletjme)**,
   a 3-D physics library for JVM applications,
   based on [Bullet](https://pybullet.org)
