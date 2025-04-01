@@ -35,6 +35,7 @@ under the
 + **[Jolt JNI](https://github.com/stephengold/jolt-jni)**,
   [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) bindings
   for [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
+  and [V-HACD](https://github.com/kmammou/v-hacd)
   + Maven artifact IDs with the "jolt-jni-" prefix
   + find the latest release:
     [Central](https://repo1.maven.org/maven2/com/github/stephengold),
