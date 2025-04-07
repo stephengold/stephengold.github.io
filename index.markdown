@@ -43,6 +43,9 @@ under the
   + [browse recent commits](https://github.com/stephengold/jolt-jni/commits/master)
 
 + Add-on projects for Jolt JNI:
+  + **[jolt-jni-docs](https://github.com/stephengold/jolt-jni-docs)**,
+    a tutorial for Jolt JNI, with simple example applications
+    + [browse recent commits](https://github.com/stephengold/jolt-jni-docs/commits/master)
   + **[Sport Jolt](https://github.com/stephengold/sport-jolt)**,
     an [OpenGL](https://www.khronos.org/opengl/)-based graphics engine for Jolt JNI,
     with demo applications
