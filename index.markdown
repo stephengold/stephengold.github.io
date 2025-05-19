@@ -32,7 +32,7 @@ He also releases artifacts to
 under the
 [com.github.stephengold](https://central.sonatype.com/namespace/com.github.stephengold) group ID.
 
-+ **[Jolt JNI](https://github.com/stephengold/jolt-jni)**,
++ **[Jolt JNI](https://stephengold.github.io/jolt-jni-docs)**,
   [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) bindings
   for [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
   and [V-HACD](https://github.com/kmammou/v-hacd)
