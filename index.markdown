@@ -193,7 +193,7 @@ under the
       [GitHub](https://github.com/stephengold/Wes/releases/latest)
     + [recent commits](https://github.com/stephengold/Wes/commits/master)
 
-+ JMonkeyEngine apps:
++ App-only projects:
   + **[Archer-Game-Template2](https://github.com/capdevon/Archer-Game-Template2)**,
     a first-person shooter game
     + [recent commits](https://github.com/capdevon/Archer-Game-Template2/commits/main)
@@ -226,6 +226,9 @@ under the
   + **[RyzomDemos](https://github.com/stephengold/RyzomDemos)**,
     example applications using assets imported by RyzomConverter
     + [recent commits](https://github.com/stephengold/RyzomDemos/commits/master)
+  + **[SortCheckstyle](https://github.com/stephengold/SortCheckstyle)**,
+    command-line tool to organize a Checkstyle configuration file
+    + [recent commits](https://github.com/stephengold/SortCheckstyle/commits/master)
   + **[VhacdTuner](https://github.com/stephengold/VhacdTuner)**,
     a GUI app to tune the V-HACD algorithm for a specific mesh
     + [recent commits](https://github.com/stephengold/VhacdTuner/commits/master)
