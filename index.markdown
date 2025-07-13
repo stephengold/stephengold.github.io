@@ -227,7 +227,7 @@ under the
     example applications using assets imported by RyzomConverter
     + [recent commits](https://github.com/stephengold/RyzomDemos/commits/master)
   + **[SortCheckstyle](https://github.com/stephengold/SortCheckstyle)**,
-    command-line tool to organize a Checkstyle configuration file
+    command-line tool to organize a [Checkstyle](https://checkstyle.org/) configuration file
     + [recent commits](https://github.com/stephengold/SortCheckstyle/commits/master)
   + **[VhacdTuner](https://github.com/stephengold/VhacdTuner)**,
     a GUI app to tune the V-HACD algorithm for a specific mesh
