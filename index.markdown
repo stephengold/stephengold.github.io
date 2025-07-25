@@ -44,7 +44,7 @@ under the
 
 + Add-on projects for Jolt JNI:
   + **[jolt-jni-docs](https://github.com/stephengold/jolt-jni-docs)**,
-    a tutorial for Jolt JNI, with simple example applications
+    documentation for Jolt JNI, including a tutorial with simple example applications
     + [recent commits](https://github.com/stephengold/jolt-jni-docs/commits/master)
   + **[Sport-Jolt](https://github.com/stephengold/sport-jolt)**,
     an [OpenGL](https://www.khronos.org/opengl/)-based graphics engine for Jolt JNI,
