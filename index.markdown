@@ -235,28 +235,28 @@ under the
 
 + Ancient JVM libraries:
   + **[asm 3.1](https://github.com/stephengold/asm)**,
-    a framework for manipulating JVM bytecodes
+    a framework for manipulating JVM bytecodes (from 2010)
     + Maven artifact ID: "asm-all"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/asm-all),
       [GitHub](https://github.com/stephengold/asm/releases/latest)
     + [recent commits](https://github.com/stephengold/asm/commits/master)
   + **[jbullet](https://github.com/stephengold/jbullet)**,
-    a 3-D physics library written entirely in Java
+    a 3-D physics library written entirely in Java (from 2008)
     + Maven artifact ID: "jbullet"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/jbullet),
       [GitHub](https://github.com/stephengold/jbullet/releases/latest)
     + [recent commits](https://github.com/stephengold/jbullet/commits/master)
   + **[j-ogg-all](https://github.com/stephengold/j-ogg-all)**,
-    reads [Ogg](https://www.xiph.org/ogg/) bitstreams and decodes the media they contain
+    reads [Ogg](https://www.xiph.org/ogg/) bitstreams and decodes the media they contain (from 2014)
     + Maven artifact IDs: "j-ogg-all" and "j-ogg-vorbis"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold),
       [GitHub](https://github.com/stephengold/j-ogg-all/releases/latest)
     + [recent commits](https://github.com/stephengold/j-ogg-all/commits/master)
   + **[stack-alloc](https://github.com/stephengold/stack-alloc)**,
-    allocates JVM objects on the stack instead of on the heap
+    allocates JVM objects on the stack instead of on the heap (from 2008)
     + Maven artifact ID: "stack-alloc"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/stack-alloc),
