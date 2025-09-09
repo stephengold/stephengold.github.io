@@ -33,8 +33,8 @@ under the
 [com.github.stephengold](https://central.sonatype.com/namespace/com.github.stephengold) group ID.
 
 + **[Jolt JNI](https://stephengold.github.io/jolt-jni-docs)**,
-  [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) bindings
-  for [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
+  a 3-D physics library for JVMs,
+  based on [Jolt Physics](https://jrouwe.github.io/JoltPhysics)
   and [V-HACD](https://github.com/kmammou/v-hacd)
   + Maven artifact IDs with the "jolt-jni-" prefix
   + find the latest release:
@@ -44,11 +44,13 @@ under the
 
 + Add-on projects for Jolt JNI:
   + **[jolt-jni-docs](https://github.com/stephengold/jolt-jni-docs)**,
-    documentation for Jolt JNI, including a tutorial with simple example applications
+    documentation for Jolt JNI,
+    including a tutorial with sample applications
+    in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) and other languages
     + [recent commits](https://github.com/stephengold/jolt-jni-docs/commits/master)
   + **[Sport-Jolt](https://github.com/stephengold/sport-jolt)**,
     an [OpenGL](https://www.khronos.org/opengl/)-based graphics engine for Jolt JNI,
-    with demo applications
+    with demos
     + Maven artifact ID: "sport-jolt"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/sport-jolt),
@@ -56,9 +58,8 @@ under the
     + [recent commits](https://github.com/stephengold/sport-jolt/commits/master)
 
 + **[Libbulletjme](https://stephengold.github.io/Libbulletjme)**,
-  a 3-D physics library for JVM applications,
-  based on [Bullet](https://pybullet.org)
-  and [V-HACD](https://github.com/kmammou/v-hacd)
+  a 3-D physics library for JVMs,
+  based on [Bullet](https://pybullet.org) and V-HACD
   + Maven artifact IDs with the "Libbulletjme" prefix
   + find the latest release:
     [Central](https://repo1.maven.org/maven2/com/github/stephengold/Libbulletjme-Windows64/),
@@ -67,7 +68,8 @@ under the
 
 + Add-on projects for Libbulletjme:
   + **[LbjExamples](https://github.com/stephengold/LbjExamples)**,
-    a tutorial for Libbulletjme, with simple example applications
+    documentation for Libbulletjme,
+    including a tutorial with sample applications in Java and Kotlin
     + [recent commits](https://github.com/stephengold/LbjExamples/commits/master)
   + **[SPORT](https://github.com/stephengold/sport)**,
     an [OpenGL](https://www.khronos.org/opengl/)-based graphics engine for Libbulletjme,
@@ -79,7 +81,7 @@ under the
     + [recent commits](https://github.com/stephengold/sport/commits/master)
   + **[V-Sport](https://github.com/stephengold/V-Sport)**,
     a [Vulkan](https://www.vulkan.org/)-based graphics engine for Libbulletjme,
-    with demo applications and simple example applications
+    with demos and sample applications in Java
     + Maven artifact ID: "V-Sport"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/V-Sport),
