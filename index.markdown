@@ -15,11 +15,11 @@ At the present time, he seeks neither employment nor funding nor romance.
 His current software interests include:
 + [3-D graphics](https://en.wikipedia.org/wiki/3D_computer_graphics)
 + [physics simulation](https://en.wikipedia.org/wiki/Physics_engine)
-+ [skeletal animation](https://en.wikipedia.org/wiki/Skeletal_animation)
++ [approximate convex decomposition](https://parasollab.web.illinois.edu/research/ACD)
 + [software build automation](https://en.wikipedia.org/wiki/Build_automation)
 + [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm)
 + [procedural generation of shapes, meshes, and textures](https://en.wikipedia.org/wiki/Procedural_generation)
-+ [approximate convex decomposition](https://parasollab.web.illinois.edu/research/ACD)
++ [skeletal animation](https://en.wikipedia.org/wiki/Skeletal_animation)
 
 You can follow [his devlog at Tumblr](https://www.tumblr.com/frog707).
 
