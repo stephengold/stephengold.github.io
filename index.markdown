@@ -30,7 +30,7 @@ for his open-source software projects at [GitHub](https://github.com).
 He also releases artifacts to
 [the Maven Central Repository](https://www.cloudrepo.io/articles/public-maven-repositories-maven-central-and-more.html#article),
 under the
-[com.github.stephengold](https://central.sonatype.com/namespace/com.github.stephengold) group ID.
+[com.github.stephengold group ID](https://central.sonatype.com/namespace/com.github.stephengold).
 
 + **[Jolt JNI](https://stephengold.github.io/jolt-jni-docs)**,
   a 3-D physics library for JVMs,
@@ -38,7 +38,7 @@ under the
   and [V-HACD](https://github.com/kmammou/v-hacd)
   + Maven artifact IDs with the "jolt-jni-" prefix
   + find the latest release:
-    [Central](https://repo1.maven.org/maven2/com/github/stephengold),
+    [Central](https://repo1.maven.org/maven2/com/github/stephengold/jolt-jni-Windows64/),
     [GitHub](https://github.com/stephengold/jolt-jni/releases/latest)
   + [recent commits](https://github.com/stephengold/jolt-jni/commits/master)
 
