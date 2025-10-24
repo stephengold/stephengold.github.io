@@ -45,9 +45,12 @@ under the
 + Add-on projects for Jolt JNI:
   + **[jolt-jni-docs](https://github.com/stephengold/jolt-jni-docs)**,
     documentation for Jolt JNI,
-    including a tutorial with sample applications
+    including a tutorial with sample desktop applications
     in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) and other languages
     + [recent commits](https://github.com/stephengold/jolt-jni-docs/commits/master)
+  + **[jolt-jni-droid](https://github.com/stephengold/jolt-jni-droid)**,
+    sample Android applications for Jolt JNI
+    + [recent commits](https://github.com/stephengold/jolt-jni-droid/commits/master)
   + **[Sport-Jolt](https://github.com/stephengold/sport-jolt)**,
     an [OpenGL](https://www.khronos.org/opengl/)-based graphics engine for Jolt JNI,
     with demos
