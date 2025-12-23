@@ -108,6 +108,9 @@ under the
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/Minie),
       [GitHub](https://github.com/stephengold/Minie/releases/latest)
     + [recent commits](https://github.com/stephengold/Minie/commits/master)
+  + **[jme3-jolt](https://github.com/stephengold/jme3-jolt)**,
+    a 3-D physics engine based on jolt-jni
+    + [recent commits](https://github.com/stephengold/jme3-jolt/commits/master)
   + **[Acorus](https://stephengold.github.io/Acorus)**,
     a simple user interface for demo/test desktop applications
     + Maven artifact ID: "Acorus"
