@@ -208,6 +208,60 @@
     <loc>https://stephengold.github.io/Acorus/acorus-en/English/build.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/Shape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/BoxShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/CapsuleShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ConvexHullShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/CylinderShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/EmptyShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/MeshShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/MutableCompoundShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/OffsetCenterOfMassShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/PlaneShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/RotatedTranslatedShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ScaledShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/SoftBodyShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/SphereShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/StaticCompoundShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/TaperedCapsuleShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/TaperedCylinderShape.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/TriangleShape.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/AaBox.html</loc>
   </url>
   <url>
@@ -241,10 +295,28 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/BodyLockInterface.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstBodyLockInterface.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/BodyLockInterfaceLocking.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstBodyLockInterfaceLocking.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/BodyLockInterfaceNoLock.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstBodyLockInterfaceNoLock.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/BodyLockMultiBase.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/BodyLockMultiRead.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/BodyLockMultiWrite.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/BodyLockRead.html</loc>
@@ -254,9 +326,6 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/BodyManager.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/BoxShape.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/BoxShapeSettings.html</loc>
@@ -292,7 +361,7 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/BroadPhaseQuery.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/CapsuleShape.html</loc>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstBroadPhaseQuery.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/CapsuleShapeSettings.html</loc>
@@ -448,22 +517,19 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ConvexHullBuilder.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ConvexHullShape.html</loc>
-  </url>
-  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ConvexHullShapeSettings.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ConvexShape.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstConvexShape.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ConvexShapeSettings.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstConvexShapeSettings.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/CylinderShape.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/CylinderShapeSettings.html</loc>
@@ -473,6 +539,9 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/DebugRendererRecorder.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/DebugRendererSimple.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/DecoratedShape.html</loc>
@@ -491,9 +560,6 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/DistanceConstraintSettings.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/EmptyShape.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/EmptyShapeSettings.html</loc>
@@ -589,9 +655,6 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/Mat44Arg.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/MeshShape.html</loc>
-  </url>
-  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/MeshShapeSettings.html</loc>
   </url>
   <url>
@@ -604,13 +667,13 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/MotorSettings.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstMotorSettings.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/MotorcycleController.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/MotorcycleControllerSettings.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/MutableCompoundShape.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/MutableCompoundShapeSettings.html</loc>
@@ -620,6 +683,9 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/NarrowPhaseQuery.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstNarrowPhaseQuery.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/NonCopyable.html</loc>
@@ -652,9 +718,6 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ObjectVsBroadPhaseLayerFilterTable.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/OffsetCenterOfMassShape.html</loc>
-  </url>
-  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/OffsetCenterOfMassShapeSettings.html</loc>
   </url>
   <url>
@@ -668,6 +731,9 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/PathConstraintPath.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstPathConstraintPath.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/PathConstraintPathRef.html</loc>
@@ -719,9 +785,6 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstPlane.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/PlaneShape.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/PlaneShapeSettings.html</loc>
@@ -784,9 +847,6 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/RayInvDirection.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/RotatedTranslatedShape.html</loc>
-  </url>
-  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/RotatedTranslatedShapeSettings.html</loc>
   </url>
   <url>
@@ -796,9 +856,6 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ScaleHelpers.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ScaledShape.html</loc>
-  </url>
-  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ScaledShapeSettings.html</loc>
   </url>
   <url>
@@ -806,9 +863,6 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstSerializableObject.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/Shape.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstShape.html</loc>
@@ -910,9 +964,6 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstSoftBodyMotionProperties.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/SoftBodyShape.html</loc>
-  </url>
-  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/SoftBodySharedSettings.html</loc>
   </url>
   <url>
@@ -940,9 +991,6 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstSphere.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/SphereShape.html</loc>
-  </url>
-  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/SphereShapeSettings.html</loc>
   </url>
   <url>
@@ -959,9 +1007,6 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/StateRecorderImpl.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/StaticCompoundShape.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/StaticCompoundShapeSettings.html</loc>
@@ -994,13 +1039,7 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/SwingTwistConstraintSettings.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/TaperedCapsuleShape.html</loc>
-  </url>
-  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/TaperedCapsuleShapeSettings.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/TaperedCylinderShape.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/TaperedCylinderShapeSettings.html</loc>
@@ -1043,9 +1082,6 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/TriangleConvexSupport.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/TriangleShape.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/TriangleShapeSettings.html</loc>
@@ -1093,6 +1129,9 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/VehicleCollisionTester.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstVehicleCollisionTester.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/VehicleCollisionTesterRef.html</loc>
   </url>
   <url>
@@ -1117,6 +1156,9 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/VehicleConstraint.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstVehicleConstraint.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/VehicleConstraintRef.html</loc>
   </url>
   <url>
@@ -1126,7 +1168,13 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstVehicleConstraintSettings.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/VehicleConstraintSettingsRef.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/VehicleController.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstVehicleController.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/VehicleControllerSettings.html</loc>
@@ -1159,6 +1207,9 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/Wheel.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstWheel.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/WheelSettings.html</loc>
   </url>
   <url>
@@ -1168,10 +1219,16 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/WheelSettingsTv.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstWheelSettingsTv.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/WheelSettingsTvRef.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/WheelSettingsWv.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstWheelSettingsWv.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/WheelSettingsWvRef.html</loc>
@@ -1330,7 +1387,7 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/Contact.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ContactList.html</loc>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/ContactListenerList.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/CsrFace.html</loc>
@@ -1363,6 +1420,9 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/CustomContactListener.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/CustomDebugRendererSimple.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/CustomPhysicsStepListener.html</loc>
   </url>
   <url>
@@ -1379,6 +1439,15 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/Face.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/FilteredContactListener.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/Geometry.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/GeometryRef.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/GetTrianglesContext.html</loc>
@@ -1406,6 +1475,9 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/JoltPhysicsObject.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/Lod.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/Mat44Array.html</loc>
@@ -1807,6 +1879,18 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstJoltPhysicsObject.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/template/RefTarget.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/RMat44Arg.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/EShapeSubType.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/EShapeType.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/RVec3Arg.html</loc>
   </url>
   <url>
@@ -1849,9 +1933,6 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/EActivation.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/template/RefTarget.html</loc>
-  </url>
-  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/template/Ref.html</loc>
   </url>
   <url>
@@ -1873,6 +1954,9 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/constant-values.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstSubShape.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/vhacd/ConvexHull.html</loc>
   </url>
   <url>
@@ -1885,10 +1969,10 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/EConstraintType.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/EResult.html</loc>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstChbFace.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/RMat44Arg.html</loc>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/EResult.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/ESupportMode.html</loc>
@@ -1898,6 +1982,9 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/EDrawMode.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/ECullMode.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/EMotorState.html</loc>
@@ -1916,12 +2003,6 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/std/RandomNumberEngine.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/EShapeSubType.html</loc>
-  </url>
-  <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/EShapeType.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/EAxis.html</loc>
@@ -1978,6 +2059,9 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/template/Array.html</loc>
   </url>
   <url>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/readonly/ConstLod.html</loc>
+  </url>
+  <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/template/Result.html</loc>
   </url>
   <url>
@@ -2008,10 +2092,10 @@
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/operator/Op.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/std/Std.html</loc>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/EFilterMode.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/enumerate/ECullMode.html</loc>
+    <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/std/Std.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/jolt-jni-docs/javadoc/latest/com.github.stephengold.joltjni/com/github/stephengold/joltjni/std/DefaultRandomEngine.html</loc>
@@ -2075,6 +2159,9 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/help-doc.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/search.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Libbulletjme/javadoc/master/com/jme3/bullet/NativePhysicsObject.html</loc>
@@ -2324,6 +2411,9 @@
   </url>
   <url>
     <loc>https://stephengold.github.io/Minie/javadoc/master/help-doc.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Minie/javadoc/master/search.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/PhysicsTickListener.html</loc>
@@ -2995,10 +3085,10 @@
     <loc>https://stephengold.github.io/Minie/javadoc/master/com/jme3/bullet/animation/MassHeuristic.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/MyShape.html</loc>
+    <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/MyPco.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/MyPco.html</loc>
+    <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/MyShape.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Minie/javadoc/master/jme3utilities/minie/NegativeAppDataFilter.html</loc>
@@ -3067,10 +3157,13 @@
     <loc>https://stephengold.github.io/Acorus/javadoc/master/help-doc.html</loc>
   </url>
   <url>
-    <loc>https://stephengold.github.io/Acorus/javadoc/master/jme3utilities/ui/AcorusDemo.html</loc>
+    <loc>https://stephengold.github.io/Acorus/javadoc/master/search.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Acorus/javadoc/master/jme3utilities/ui/AcorusAppState.html</loc>
+  </url>
+  <url>
+    <loc>https://stephengold.github.io/Acorus/javadoc/master/jme3utilities/ui/AcorusDemo.html</loc>
   </url>
   <url>
     <loc>https://stephengold.github.io/Acorus/javadoc/master/jme3utilities/ui/ActionApplication.html</loc>
