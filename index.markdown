@@ -72,9 +72,12 @@ under the
 + Add-on projects for Libbulletjme:
   + **[LbjExamples](https://github.com/stephengold/LbjExamples)**,
     documentation for Libbulletjme,
-    including a tutorial with sample applications
+    including a tutorial with sample desktop applications
     in Java and [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
     + [recent commits](https://github.com/stephengold/LbjExamples/commits/master)
+  + **[LbjDroid](https://github.com/stephengold/LbjDroid)**,
+    sample Android applications for Libbulletjme
+    + [recent commits](https://github.com/stephengold/LbjDroid/commits/master)
   + **[SPORT](https://github.com/stephengold/sport)**,
     an [OpenGL](https://www.khronos.org/opengl/)-based graphics engine for Libbulletjme,
     with demo applications
