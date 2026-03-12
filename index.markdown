@@ -284,6 +284,6 @@ under the
       + find the latest release:
         [GitHub](https://github.com/stephengold/antora-ui-bundle/releases/latest)
       + [recent commits](https://github.com/stephengold/antora-ui-bundle/commits/master)
-  + **[stephengold.guihub.io](https://github.com/stephengold/stephengold.github.io)**,
+  + **[stephengold.github.io](https://github.com/stephengold/stephengold.github.io)**,
     this website
     + [recent commits](https://github.com/stephengold/stephengold.github.io/commits/master)
