@@ -209,12 +209,15 @@ under the
   + **[Archer-Game-Template2](https://github.com/capdevon/Archer-Game-Template2)**,
     a first-person shooter game
     + [recent commits](https://github.com/capdevon/Archer-Game-Template2/commits/main)
+  + **[BasicGame-on-Droid](https://github.com/stephengold/BasicGame-on-Droid)**,
+    a template for an Android app using JMonkeyEngine
+    + [recent commits](https://github.com/stephengold/BasicGame-on-Droid/commits/master)
   + **[BasicGame-on-Gradle](https://github.com/stephengold/BasicGame-on-Gradle)**,
-    a template for building JMonkeyEngine applications
+    a template for a JMonkeyEngine desktop application
     using [Gradle](https://gradle.org) and [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
     + [recent commits](https://github.com/stephengold/BasicGame-on-Gradle/commits/master)
   + **[BasicGame-on-Kotlin](https://github.com/stephengold/BasicGame-on-Kotlin)**,
-    a template for building JMonkeyEngine applications
+    a template for a JMonkeyEngine desktop application
     using [Gradle](https://gradle.org) and [Kotlin](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
     + [recent commits](https://github.com/stephengold/BasicGame-on-Kotlin/commits/master)
   + **[DacWizard](https://github.com/stephengold/DacWizard)**,
