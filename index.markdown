@@ -11,6 +11,8 @@ including apps, libraries, and documentation.
 He holds an advanced degree in Electrical Engineering.
 He resides in California with his (long-term) sweetheart.
 At the present time, he seeks neither employment nor funding nor romance.
+He refuses to pay for search-engine optimization, so don't offer your
+services unless you're willing to work for free.
 
 His current software interests include:
 + [3-D graphics](https://en.wikipedia.org/wiki/3D_computer_graphics)
