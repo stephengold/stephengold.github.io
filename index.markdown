@@ -53,6 +53,9 @@ under the
   + **[jolt-jni-droid](https://github.com/stephengold/jolt-jni-droid)**,
     sample Android applications for Jolt JNI
     + [recent commits](https://github.com/stephengold/jolt-jni-droid/commits/master)
+  + **[jolt-jni-maven](https://github.com/stephengold/jolt-jni-maven)**,
+    sample desktop application for Jolt JNI, built using Maven
+    + [recent commits](https://github.com/stephengold/jolt-jni-maven/commits/master)
   + **[Sport-Jolt](https://github.com/stephengold/sport-jolt)**,
     an [OpenGL](https://www.khronos.org/opengl/)-based graphics engine for Jolt JNI,
     with demos
