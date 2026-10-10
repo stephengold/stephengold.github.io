@@ -46,6 +46,6 @@ exclude:
     - Gemfile
     - Gemfile.lock
     - README.md
-    - build.gradle
+    - build.gradle.kts
     - gradlew
     - gradlew.bat
