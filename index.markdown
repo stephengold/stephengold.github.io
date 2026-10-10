@@ -84,6 +84,10 @@ under the
   + **[LbjDroid](https://github.com/stephengold/LbjDroid)**,
     sample Android applications for Libbulletjme
     + [recent commits](https://github.com/stephengold/LbjDroid/commits/master)
+  + **[LbjMaven](https://github.com/stephengold/LbjMaven)**,
+    a sample desktop application for Libbulletjme,
+    built using Maven
+    + [recent commits](https://github.com/stephengold/LbjMaven/commits/master)
   + **[SPORT](https://github.com/stephengold/sport)**,
     an [OpenGL](https://www.khronos.org/opengl/)-based graphics engine for Libbulletjme,
     with demo applications
