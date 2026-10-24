@@ -165,13 +165,6 @@ under the
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/JmePower),
       [GitHub](https://github.com/stephengold/JmePower/releases/latest)
     + [recent commits](https://github.com/stephengold/JmePower/commits/master)
-  + **[jME-TTF](https://github.com/stephengold/jME-TTF)**,
-    a renderer for TrueType fonts
-    + Maven artifact ID: "jme-ttf"
-    + find the latest release:
-      [Central](https://repo1.maven.org/maven2/com/github/stephengold/jme-ttf),
-      [GitHub](https://github.com/stephengold/jME-TTF/releases/latest)
-    + [recent commits](https://github.com/stephengold/jME-TTF/commits/master)
   + **[KK Physics](https://github.com/stephengold/kk-physics)**,
     a 3-D physics engine based on Jolt JNI
     + Maven artifact ID: "kk-physics"
@@ -200,13 +193,6 @@ under the
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/SkyControl),
       [GitHub](https://github.com/stephengold/SkyControl/releases/latest)
     + [recent commits](https://github.com/stephengold/SkyControl/commits/master)
-  + **[tonegodgui](https://github.com/stephengold/tonegodgui)**,
-    another graphical user interface
-    + Maven artifact ID: "tonegodgui"
-    + find the latest release:
-      [Central](https://repo1.maven.org/maven2/com/github/stephengold/tonegodgui),
-      [GitHub](https://github.com/stephengold/tonegodgui/releases/latest)
-    + [recent commits](https://github.com/stephengold/tonegodgui/commits/master)
   + **[Wes](https://github.com/stephengold/Wes)**,
     edits and retargets skeletal animations
     + Maven artifact ID: "Wes"
@@ -244,10 +230,6 @@ under the
   + **[Maud](https://github.com/stephengold/Maud)**,
     an editor for animated 3-D models
     + [recent commits](https://github.com/stephengold/Maud/commits/master)
-  + **[RyzomConverter](https://github.com/stephengold/RyzomConverter)**,
-    imports assets from
-    [the Ryzom Asset Repository](https://bitbucket.org/ccxvii/ryzom-assets)
-    + [recent commits](https://github.com/stephengold/RyzomConverter/commits/master)
   + **[RyzomDemos](https://github.com/stephengold/RyzomDemos)**,
     example applications using assets imported by RyzomConverter
     + [recent commits](https://github.com/stephengold/RyzomDemos/commits/master)
@@ -258,9 +240,11 @@ under the
     a GUI app to tune the V-HACD algorithm for a specific mesh
     + [recent commits](https://github.com/stephengold/VhacdTuner/commits/master)
 
-+ Ancient JVM libraries:
++ Ancient JVM projects:
+  + I didn't create any of these.
+    I forked them to keep them buildable because other projects depend on them.
   + **[asm 3.1](https://github.com/stephengold/asm)**,
-    a framework for manipulating JVM bytecodes (from 2010)
+    a library for manipulating JVM bytecodes (from 2010)
     + Maven artifact ID: "asm-all"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/asm-all),
@@ -274,19 +258,39 @@ under the
       [GitHub](https://github.com/stephengold/jbullet/releases/latest)
     + [recent commits](https://github.com/stephengold/jbullet/commits/master)
   + **[j-ogg-all](https://github.com/stephengold/j-ogg-all)**,
-    reads [Ogg](https://www.xiph.org/ogg/) bitstreams and decodes the media they contain (from 2014)
+    a library for reading [Ogg](https://www.xiph.org/ogg/) bitstreams and decoding the media they contain (from 2014)
     + Maven artifact IDs: "j-ogg-all" and "j-ogg-vorbis"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold),
       [GitHub](https://github.com/stephengold/j-ogg-all/releases/latest)
     + [recent commits](https://github.com/stephengold/j-ogg-all/commits/master)
+  + **[jME-TTF](https://github.com/stephengold/jME-TTF)**,
+    a library for rendering TrueType fonts (from 2019)
+    + Maven artifact ID: "jme-ttf"
+    + find the latest release:
+      [Central](https://repo1.maven.org/maven2/com/github/stephengold/jme-ttf),
+      [GitHub](https://github.com/stephengold/jME-TTF/releases/latest)
+    + [recent commits](https://github.com/stephengold/jME-TTF/commits/master)
+  + **[RyzomConverter](https://github.com/stephengold/RyzomConverter)**,
+    a utility app to import 3-D assets from
+    [the Ryzom Asset Repository](https://bitbucket.org/ccxvii/ryzom-assets) (from 2017)
+    + [recent commits](https://github.com/stephengold/RyzomConverter/commits/master)
   + **[stack-alloc](https://github.com/stephengold/stack-alloc)**,
-    allocates JVM objects on the stack instead of on the heap (from 2008)
+    a library to allocate JVM objects on the stack instead of on the heap (from 2008)
     + Maven artifact ID: "stack-alloc"
     + find the latest release:
       [Central](https://repo1.maven.org/maven2/com/github/stephengold/stack-alloc),
       [GitHub](https://github.com/stephengold/stack-alloc/releases/latest)
     + [recent commits](https://github.com/stephengold/stack-alloc/commits/master)
+  + **[tonegodgui](https://github.com/stephengold/tonegodgui)**,
+    an alternative
+    [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface)
+    library for jMonkeyEngine (2014)
+    + Maven artifact ID: "tonegodgui"
+    + find the latest release:
+      [Central](https://repo1.maven.org/maven2/com/github/stephengold/tonegodgui),
+      [GitHub](https://github.com/stephengold/tonegodgui/releases/latest)
+    + [recent commits](https://github.com/stephengold/tonegodgui/commits/master)
 
 + Documentation projects:
   + **[antora-ui-bundle](https://github.com/stephengold/antora-ui-bundle)**,
